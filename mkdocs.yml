@@ -1,0 +1,36 @@
+site_name: Taller de Relaciones Digitales Responsables
+use_directory_urls: false
+nav:
+- 'Digital Identity':
+    - 'Understanding Digital Identity: What it is and why it is important': 'contents/digitalid/digitalid.md'
+    - 'Creating Online Personas: Choosing Usernames and Avatars': 'contents/digitalid/aliasavatar.md'
+    - 'How We See Ourselves and Others See Us Online: Self-image and Perception': 'contents/digitalid/selfconcept.md'
+    - 'People Who Influence Our Digital Identity': 'contents/digitalid/influencers.md'
+    - 'Leaving Our Mark Online: Digital Footprints and Online Reputation': 'contents/digitalid/footprint.md'
+    - 'Being a Responsible Digital Citizen': 'contents/digitalid/behaviours.md'
+    - 'Staying Safe Online: Protecting Our Personal Information and Privacy': 'contents/digitalid/privacy.md'
+- 'Relationships in the digital environment (CE 4)':
+    - 'Virtual and physical friendship.': ''
+    - 'Digital environments for social exchange and online games.': ''
+    - 'Strategies for an equal, safe, and healthy cyber coexistence. Digital etiquette.': ''
+    - 'Advantages and benefits of interactions in the digital environment.': ''
+    - 'Risks and threats of device use and network relationships. Cyberbullying and fraud.': ''
+    - 'Addictions. Techno addiction, nomophobia, and online gambling addiction.': ''
+- 'Programación Didáctica':
+    - 'Elementos curriculares': 'pd/curriculo/curriculo.md'
+theme:
+    language: es
+    name: 'readthedocs'
+    palette:
+        primary: 'Teal'
+        accent: 'Teal'
+    font:
+        text: Roboto
+        code: Roboto Mono
+    logo: 'images/floppy-ict1.png'
+
+plugins:
+  - glightbox
+
+markdown_extensions:
+  - attr_list
