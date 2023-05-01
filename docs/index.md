@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Workshop on Responsible Digital Relationships
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![Digital Identity](images/socialmedia.png)
 
-## Commands
+In this course you will learn how to:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Use personal digital devices in the home and educational environment in a healthy, safe, and sustainable manner.
+- Search and critically select digital information from different sources, interpret it, organize it in the personal learning environment, and create digital content.
+- Build an adequate digital identity and apply basic strategies to take care of and protect it.
+- Show basic habits that promote well-being in relationships through digital environments.
