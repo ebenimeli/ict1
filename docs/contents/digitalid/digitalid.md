@@ -98,8 +98,6 @@ Our digital identity can affect the interactions, opportunities, and reputation 
 | Personal exposure | Exposición personal | Personal exposure online can impact someone's digital identity and reputation. |
 | Personal Information | Información Personal | Protecting personal information online is crucial for safeguarding digital identity. |
 | Perception | Percepción | How others perceive you online can impact your digital identity and reputation. |
-| English | Spanish | Example Sentence |
-| ------- | ------- | ------- |
 | Photos | Fotos | I deleted all the photos from my digital identity that showed me drinking alcohol. |
 | Positive | Positivo | His positive online reputation has helped him get job offers. |
 | Post | Publicación | I made a post on social media about my new job, but I didn't share my workplace's address for privacy reasons. |
