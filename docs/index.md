@@ -1,6 +1,6 @@
 # Workshop on Responsible Digital Relationships
 
-![Digital Identity](images/socialmedia.png)
+![Social Media](images/socialmedia.png)
 
 In this course you will learn how to:
 

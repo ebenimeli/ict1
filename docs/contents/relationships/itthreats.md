@@ -2,11 +2,15 @@
 
 Risks and threats of device use and network relationships. Cyberbullying and fraud.
 
+![Botnet](img/botnet.png)
+
 ## Botnets
 
 **What they are**
 
 A collection of software robots, or 'bots', that creates an army of infected computers (known as ‘zombies') that are remotely controlled by the originator. Yours may be one of them and you may not even know it.
+
+A botnet[^1] is a group of computers that have been infected with harmful software. This allows someone else to control the computers from a remote location without the owners knowing. The person controlling the botnet can use these computers to do bad things, like spread viruses or attack other websites. It's important to protect your computer from becoming part of a botnet by keeping your antivirus software up to date and being careful about what you download or click on.
 
 **What they can do**
 
@@ -62,6 +66,8 @@ Fake emails, text messages and websites created to look like they're from authen
 - Provides cyber criminals with your username and passwords so that they can access your accounts (online bank account, shopping accounts, etc.) and steal your credit card numbers.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W2tZEFUCjTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video: Phishing](https://youtu.be/W2tZEFUCjTs)
 
 ## Ransomware
 
@@ -162,3 +168,6 @@ A worm, unlike a virus, goes to work on its own without attaching itself to file
 
 - Spread to everyone in your contact list.
 - Cause a tremendous amount of damage by shutting down parts of the Internet, wreaking havoc on an internal network and costing companies enormous amounts of lost revenue.
+
+# Webgraphy
+[^1]: [*¿Qué es un botnet?*](https://www.kaspersky.es/blog/que-es-un-botnet/755/)

@@ -1,7 +1,7 @@
 site_name: Taller de Relaciones Digitales Responsables
 use_directory_urls: false
 nav:
-- 'Relationships in the digital environment (CE 4)':
+- 'Digital Relationships':
     #- 'Virtual and physical friendship.': ''
     #- 'Digital environments for social exchange and online games.': ''
     #- 'Strategies for an equal, safe, and healthy cyber coexistence. Digital etiquette.': ''
@@ -35,3 +35,4 @@ plugins:
 
 markdown_extensions:
   - attr_list
+  - footnotes
