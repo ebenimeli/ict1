@@ -19,3 +19,7 @@ Most social media platforms and websites allow us to adjust our privacy settings
 
 ## Conclusion
 Taking care of our digital identity is an important part of being responsible and safe online. By adopting these behaviors and habits, we can protect our personal information and create a positive online presence.
+
+## How to be a Responsible Digital Citizen?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6PgQNc0ro9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

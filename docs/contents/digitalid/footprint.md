@@ -21,3 +21,7 @@ There are several things we can do to manage our digital footprint and protect o
 ## Conclusion
 
 Our digital footprint is an important part of our personal exposure on the web. By being mindful of what we post and share online, and taking steps to manage our digital footprint, we can create a positive and safe online presence.
+
+## Teen Voices: Oversharing and Your Digital Footprint
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ottnH427Fr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

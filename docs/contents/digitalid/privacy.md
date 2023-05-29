@@ -16,3 +16,7 @@ When we share our personal data online, we should be informed about how it will 
 
 ## Conclusion
 Privacy on the web and the protection of personal data are important issues that affect us all. By understanding our personal data, protecting it, and giving our informed consent, we can use the internet safely and responsibly.
+
+## Being Safe on the Internet
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HxySrSbSY7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

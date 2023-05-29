@@ -25,3 +25,7 @@ What we post online can influence how people see us, which can be good or bad. I
 ## Conclusion
 
 Our digital identity is important because it affects how we feel about ourselves and how others see us. We should be aware of what we post online and how it might be perceived by others. By understanding how our digital identity affects us, we can use it in a positive way and build strong relationships with others.
+
+## Social Media And Self-Image
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C9N6k3nfwao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
