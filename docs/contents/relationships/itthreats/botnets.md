@@ -14,4 +14,6 @@ A botnet[^botnet] is a group of computers that have been infected with harmful s
 - Spread all types of malware.
 - Can use your computer as part of a denial of service attack against other systems.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3BbxUCOFX8g?si=TOvIYObH8EeYu4IO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 [^botnet]: [*¿Qué es un botnet?*](https://www.kaspersky.es/blog/que-es-un-botnet/755/)
