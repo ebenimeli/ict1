@@ -1,26 +1,6 @@
 site_name: Workshop on Responsible Digital Relationships
 use_directory_urls: false
 nav:
-- 'Digital Relationships':
-    #- 'Virtual and physical friendship.': ''
-    #- 'Digital environments for social exchange and online games.': ''
-    #- 'Strategies for an equal, safe, and healthy cyber coexistence. Digital etiquette.': ''
-    #- 'Advantages and benefits of interactions in the digital environment.': ''
-    - 'IT Threats':
-        - 'Botnets' : 'contents/relationships/itthreats/botnets.md'
-        - 'Hacking' : 'contents/relationships/itthreats/hacking.md'
-        - 'Malware' : 'contents/relationships/itthreats/malware.md'
-        - 'Pharming' : 'contents/relationships/itthreats/pharming.md'
-        - 'Phishing' : 'contents/relationships/itthreats/phishing.md'
-        - 'Ransomware' : 'contents/relationships/itthreats/ransomware.md'
-        - 'SPAM' : 'contents/relationships/itthreats/spam.md'
-        - 'Spoofing' : 'contents/relationships/itthreats/spoofing.md'
-        - 'Spyware' : 'contents/relationships/itthreats/spyware.md'
-        - 'Trojan Horse' : 'contents/relationships/itthreats/trojan.md'
-        - 'Viruses' : 'contents/relationships/itthreats/virus.md'
-        - 'WiFi Eavesdropping' : 'contents/relationships/itthreats/wifieavesdropping.md'
-        - 'Worms' : 'contents/relationships/itthreats/worms.md'
-    #- 'Addictions. Techno addiction, nomophobia, and online gambling addiction.': ''
 - 'Digital Identity':
     - '0. Guide' : 'contents/digitalid/about.md'
     - '1. Understanding Digital Identity: What it is and why it is important': 'contents/digitalid/digitalid.md'
@@ -30,6 +10,29 @@ nav:
     - '5. Leaving Our Mark Online: Digital Footprints and Online Reputation': 'contents/digitalid/footprint.md'
     - '6. Being a Responsible Digital Citizen': 'contents/digitalid/behaviours.md'
     - '7. Staying Safe Online: Protecting Our Personal Information and Privacy': 'contents/digitalid/privacy.md'
+- 'Digital Relationships':
+    #- 'Virtual and physical friendship.': ''
+    #- 'Digital environments for social exchange and online games.': ''
+    #- 'Strategies for an equal, safe, and healthy cyber coexistence. Digital etiquette.': ''
+    #- 'Advantages and benefits of interactions in the digital environment.': ''    
+    - 'IT Threats (I)':
+        - 'Botnets' : 'contents/relationships/itthreats/botnets.md'
+        - 'Hacking' : 'contents/relationships/itthreats/hacking.md'
+        - 'Malware' : 'contents/relationships/itthreats/malware.md'
+        - 'Pharming' : 'contents/relationships/itthreats/pharming.md'
+        - 'Phishing' : 'contents/relationships/itthreats/phishing.md'
+    - 'IT Threats (II)':
+        - 'Ransomware' : 'contents/relationships/itthreats/ransomware.md'
+        - 'SPAM' : 'contents/relationships/itthreats/spam.md'
+        - 'Spoofing' : 'contents/relationships/itthreats/spoofing.md'
+        - 'Spyware' : 'contents/relationships/itthreats/spyware.md'
+    - 'IT Threats (III)':
+        - 'Trojan Horse' : 'contents/relationships/itthreats/trojan.md'
+        - 'Viruses' : 'contents/relationships/itthreats/virus.md'
+        - 'WiFi Eavesdropping' : 'contents/relationships/itthreats/wifieavesdropping.md'
+        - 'Worms' : 'contents/relationships/itthreats/worms.md'
+        - 'Glossary' : 'contents/relationships/itthreats/glossary.md'
+    #- 'Addictions. Techno addiction, nomophobia, and online gambling addiction.': ''
 #- 'Programación Didáctica':
 #    - 'Elementos curriculares': 'pd/curriculo/curriculo.md'
 theme:
