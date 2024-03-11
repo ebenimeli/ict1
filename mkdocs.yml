@@ -1,6 +1,9 @@
 site_name: Workshop on Responsible Digital Relationships
 use_directory_urls: false
 nav:
+- 'Digital Devices & Networks':
+    - 'Computer Networks':
+        - 'The World Wide Web' : 'contents/devices/www.md'
 - 'Digital Identity':
     - '0. Guide' : 'contents/digitalid/about.md'
     - '1. Understanding Digital Identity: What it is and why it is important': 'contents/digitalid/digitalid.md'
@@ -40,8 +43,6 @@ nav:
         - 'Tip 5: Be Positive' : 'contents/relationships/tips/bepositive.md'
         - 'Tip 6: Internet Safety and Privacy' : 'contents/relationships/tips/safetyprivacy.md'
     #- 'Addictions. Techno addiction, nomophobia, and online gambling addiction.': ''
-    - 'Computer Networks':
-        - 'The World Wide Web' : 'contents/devices/www.md'
 #- 'Programación Didáctica':
 #    - 'Elementos curriculares': 'pd/curriculo/curriculo.md'
 theme:
