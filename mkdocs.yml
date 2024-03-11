@@ -40,6 +40,8 @@ nav:
         - 'Tip 5: Be Positive' : 'contents/relationships/tips/bepositive.md'
         - 'Tip 6: Internet Safety and Privacy' : 'contents/relationships/tips/safetyprivacy.md'
     #- 'Addictions. Techno addiction, nomophobia, and online gambling addiction.': ''
+    - 'Computer Networks':
+        - 'The World Wide Web' : 'contents/devices/www.md'
 #- 'Programación Didáctica':
 #    - 'Elementos curriculares': 'pd/curriculo/curriculo.md'
 theme:
