@@ -25,3 +25,11 @@ Detecting and understanding the implications of hate speech is vital for fosteri
 The algorithms that drive content delivery on social media and gaming platforms often prioritize engagement over accuracy or safety, sometimes amplifying fake news and hate speech. Understanding how these platforms function is essential for users to navigate them responsibly. This includes being aware of the potential for addiction, the impact of online interactions on mental health, and the ways in which these platforms can both positively and negatively affect social dynamics.
 
 The digital era presents both opportunities and challenges. The proliferation of fake news and hate speech requires vigilance and education to mitigate their harmful effects. Concurrently, a deep understanding of the mechanisms of social interaction and gaming platforms can empower users to engage more responsibly and positively. By fostering critical thinking, promoting media literacy, and encouraging respectful discourse, we can harness the power of the internet for the greater good of society.
+
+## Fact vs. Fake: A Quick Lesson in Media Literacy
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9MJFRr7mY-Y?si=Z6gfYonycxjPcYZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+Giant hamburgers! Heroic home runs! Alien invasions! How can you tell if what you see online is real or not? [Here's a quick lesson](https://www.youtube.com/watch?v=9MJFRr7mY-Y) in media literacy from CBCKids.ca!
