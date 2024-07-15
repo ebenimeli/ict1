@@ -1,8 +1,9 @@
 site_name: Workshop on Responsible Digital Relationships
 use_directory_urls: false
 nav:
+- 'Objectives': 'contents/criteria.md'
 - '1. Digital Devices & Internet':
-    - '0. Introduction': 'contents/devices/s1_intro.md'
+    - 'Objectives': 'contents/devices/s1_intro.md'
     - '1.1. Smart Devices for Home and School':
         - 'Introduction': 'contents/devices/s11_intro.md'
         - 'Personal computers': 'contents/devices/s11_personalcomputers.md'
@@ -116,6 +117,10 @@ theme:
         code: Roboto Mono
     logo: 'images/floppy-ict1.png'
 
+extra_css:
+  - css/printpdf.css
+  - css/ict.css
+  
 plugins:
   - glightbox
 
