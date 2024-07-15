@@ -1,0 +1,1 @@
+# 1.2. Basic functioning and most important characteristics of digital devices

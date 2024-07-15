@@ -1,9 +1,37 @@
 site_name: Workshop on Responsible Digital Relationships
 use_directory_urls: false
 nav:
-- 'Digital Devices & Networks':
-    - 'Computer Networks':
+- '1. Digital Devices & Internet':
+    - 'Introduction': 'contents/devices/intro.md'
+    - '1.1. Personal computers, mobile devices, and other devices for domestic and educational use':
+        - 'Introduction': 'contents/devices/s11_intro.md'
+        - 'Personal computers': 'contents/devices/s11_personalcomputers.md'
+        - 'Mobile devices': 'contents/devices/s11_mobiledev.md'
+        - 'Other devices': 'contents/devices/s11_otherdev.md'
+    - '1.2. Basic functioning and most important characteristics of digital devices':
+        - 'Introduction': 'contents/devices/s12_intro.md'
+        - 'What is a Digital Device?': 'contents/devices/digdev.md'
+        - 'The CPU': 'contents/devices/s12_cpu.md'
+        - 'Types of Memories': 'contents/devices/s12_memories.md'
+        - 'Peripheral Devices': 'contents/devices/s12_peripheral.md'
+    - '1.3. Common operating systems and applications': 'contents/devices/intro.md'
+    - '1.4. Device networks. Fundamentals and ways to access the Internet':
+        - 'Computer networks': 'contents/devices/intro.md'
         - 'The World Wide Web' : 'contents/devices/www.md'
+    - '1.5. The digital divide': 'contents/devices/s15_digitaldivide.md'
+    - '1.6. Basic security habits to protect devices': 'contents/devices/intro.md'
+    - '1.7. Implications of the use of digital devices for health, sustainability, and the environment. Obsolescence': 'contents/devices/intro.md'    
+- '2. Digital Content':
+        - '0. Introduction' : 'contents/digitalcontents/intro.md'
+        - '1. Types of web search engines and their filtering tools' : 'contents/digitalcontents/intro.md'
+        - '2. Selecting information in digital media through web search engines, verifying its accuracy' : 'contents/digitalcontents/searchengines.md'
+        - '3. Reading and interpreting information from digital media' : 'contents/digitalcontents/searchengines.md'
+        - '4. Intellectual property and copyright' : 'contents/digitalcontents/searchengines.md'
+        - '5. Detecting fake news, hoaxes, and hate speech. Social implications' : 'contents/digitalcontents/searchengines.md'
+        - '6. Organization of information. Basic operations with files and folders' : 'contents/digitalcontents/searchengines.md'
+        - '7. Customizing the work environment' : 'contents/digitalcontents/searchengines.md'
+        - '8. Basic content creation with digital tools' : 'contents/digitalcontents/searchengines.md'
+        - '9. Aesthetics and audiovisual language' : 'contents/digitalcontents/searchengines.md'
 - 'Digital Identity':
     - '0. Guide' : 'contents/digitalid/about.md'
     - '1. Understanding Digital Identity: What it is and why it is important': 'contents/digitalid/digitalid.md'
