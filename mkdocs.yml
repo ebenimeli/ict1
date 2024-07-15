@@ -2,7 +2,7 @@ site_name: Workshop on Responsible Digital Relationships
 use_directory_urls: false
 nav:
 - '1. Digital Devices & Internet':
-    - 'Introduction': 'contents/devices/intro.md'
+    - '0. Introduction': 'contents/devices/s1_intro.md'
     - '1.1. Personal computers, mobile devices, and other devices for domestic and educational use':
         - 'Introduction': 'contents/devices/s11_intro.md'
         - 'Personal computers': 'contents/devices/s11_personalcomputers.md'
@@ -30,29 +30,44 @@ nav:
         - 'Digital Devices and Health': 'contents/devices/s17_intro.md'
         - 'Sustainability and Environment': 'contents/devices/s17_intro.md'
         - 'Obsolescence': 'contents/devices/s17_intro.md'
-
 - '2. Digital Content':
-        - '0. Introduction' : 'contents/digitalcontents/intro.md'
-        - '1. Types of web search engines and their filtering tools' : 'contents/digitalcontents/intro.md'
-        - '2. Selecting information in digital media through web search engines, verifying its accuracy' : 'contents/digitalcontents/searchengines.md'
-        - '3. Reading and interpreting information from digital media' : 'contents/digitalcontents/searchengines.md'
-        - '4. Intellectual property and copyright' : 'contents/digitalcontents/searchengines.md'
-        - '5. Detecting fake news, hoaxes, and hate speech. Social implications' : 'contents/digitalcontents/searchengines.md'
-        - '6. Organization of information. Basic operations with files and folders' : 'contents/digitalcontents/searchengines.md'
-        - '7. Customizing the work environment' : 'contents/digitalcontents/searchengines.md'
-        - '8. Basic content creation with digital tools' : 'contents/digitalcontents/searchengines.md'
-        - '9. Aesthetics and audiovisual language' : 'contents/digitalcontents/searchengines.md'
-- 'Digital Identity':
-    - '0. Guide' : 'contents/digitalid/about.md'
-    - '1. Understanding Digital Identity: What it is and why it is important': 'contents/digitalid/digitalid.md'
-    - '2. Creating Online Personas: Choosing Usernames and Avatars': 'contents/digitalid/aliasavatar.md'
-    - '3. How We See Ourselves and Others See Us Online: Self-image and Perception': 'contents/digitalid/selfconcept.md'
-    - '4. People Who Influence Our Digital Identity': 'contents/digitalid/influencers.md'
-    - '5. Leaving Our Mark Online: Digital Footprints and Online Reputation': 'contents/digitalid/footprint.md'
-    - '6. Being a Responsible Digital Citizen': 'contents/digitalid/behaviours.md'
-    - '7. Staying Safe Online: Protecting Our Personal Information and Privacy': 'contents/digitalid/privacy.md'
-    - '8. Fake News, Hate Speech, and Online Platforms': 'contents/digitalid/fakehateonline.md'
-
+        - '0. Introduction' : 'contents/digitalcontents/s2_intro.md'
+        - '2.1. Types of web search engines and their filtering tools' :
+            - 'Introduction': 'contents/digitalcontents/s21_intro.md'
+            - 'Search Engines': 'contents/digitalcontents/s21_searchengines.md'
+            - 'Filtering tolls': 'contents/digitalcontents/s21_filteringtools.md'
+        - '2.2. Selecting information in digital media through web search engines, verifying its accuracy' :
+            - 'Introduction': 'contents/digitalcontents/s22_intro.md'            
+        - '2.3. Reading and interpreting information from digital media':
+            - 'Introduction': 'contents/digitalcontents/s23_intro.md'
+        - '2.4. Intellectual property and copyright':
+            - 'Introduction': 'contents/digitalcontents/s24_intro.md'
+        - '2.5. Detecting fake news, hoaxes, and hate speech. Social implications':
+            - 'Introduction': 'contents/digitalcontents/s25_intro.md'
+        - '2.6. Organization of information. Basic operations with files and folders':
+            - 'Introduction': 'contents/digitalcontents/s26_intro.md'
+        - '2.7. Customizing the work environment':
+            - 'Introduction': 'contents/digitalcontents/s27_intro.md'
+        - '2.8. Basic content creation with digital tools':
+            - 'Introduction': 'contents/digitalcontents/s28_intro.md'
+        - '2.9. Aesthetics and audiovisual language':
+            - 'Introduction': 'contents/digitalcontents/s29_intro.md'
+- '3. Digital Identity':
+    - '0. Introduction' : 'contents/digitalid/s31_intro.md'
+    - '3.1. Personal identity on the Internet. Aliases and avatars':
+        - 'Understanding Digital Identity: What it is and why it is important': 'contents/digitalid/s31_xxx.md'
+    - '3.2. Self-concept and external perception of digital identity':
+        - 'Creating Online Personas: Choosing Usernames and Avatars': 'contents/digitalid/aliasavatar.md'
+    - '3.3. Sociocultural references in the construction of digital identity. Influential people':
+        - 'How We See Ourselves and Others See Us Online: Self-image and Perception': 'contents/digitalid/selfconcept.md'
+        - 'People Who Influence Our Digital Identity': 'contents/digitalid/influencers.md'
+    - '3.4. Personal exposure on the network. Digital footprint':
+        - 'Leaving Our Mark Online: Digital Footprints and Online Reputation': 'contents/digitalid/footprint.md'
+    - '3.5. Behaviors and habits to take care of digital identity':
+        - 'Being a Responsible Digital Citizen': 'contents/digitalid/behaviours.md'
+    - '3.6. Privacy on the web. Protection of personal data. Information and consent':
+        - 'Staying Safe Online: Protecting Our Personal Information and Privacy': 'contents/digitalid/privacy.md'
+        - 'Fake News, Hate Speech, and Online Platforms': 'contents/digitalid/fakehateonline.md'
 - 'Digital Relationships':
     #- 'Virtual and physical friendship.': ''
     #- 'Digital environments for social exchange and online games.': ''
