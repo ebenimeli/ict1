@@ -1,4 +1,6 @@
-# 1.1. Personal computers, mobile devices, and other devices for domestic and educational use
+# 1.1. Smart Devices for Home and School
+
+1.1. Personal computers, mobile devices, and other devices for domestic and educational use
 
 In today's world, digital devices play a crucial role in both our daily lives and educational environments. Let's explore the various types of devices, their uses, and how they contribute to our learning and daily activities.
 

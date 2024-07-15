@@ -3,14 +3,13 @@ use_directory_urls: false
 nav:
 - '1. Digital Devices & Internet':
     - '0. Introduction': 'contents/devices/s1_intro.md'
-    - '1.1. Personal computers, mobile devices, and other devices for domestic and educational use':
+    - '1.1. Smart Devices for Home and School':
         - 'Introduction': 'contents/devices/s11_intro.md'
         - 'Personal computers': 'contents/devices/s11_personalcomputers.md'
         - 'Mobile devices': 'contents/devices/s11_mobiledev.md'
         - 'Other devices': 'contents/devices/s11_otherdev.md'
-    - '1.2. Basic functioning and most important characteristics of digital devices':
-        - 'Introduction': 'contents/devices/s12_intro.md'
-        - 'What is a Digital Device?': 'contents/devices/digdev.md'
+    - '1.2. Inside Digital Devices: Key Features and Functions':
+        - 'Digital Devices: An Introduction': 'contents/devices/s12_intro.md'
         - 'The CPU': 'contents/devices/s12_cpu.md'
         - 'Types of Memories': 'contents/devices/s12_memories.md'
         - 'Peripheral Devices': 'contents/devices/s12_peripheral.md'
@@ -68,36 +67,42 @@ nav:
     - '3.6. Privacy on the web. Protection of personal data. Information and consent':
         - 'Staying Safe Online: Protecting Our Personal Information and Privacy': 'contents/digitalid/privacy.md'
         - 'Fake News, Hate Speech, and Online Platforms': 'contents/digitalid/fakehateonline.md'
-- 'Digital Relationships':
-    #- 'Virtual and physical friendship.': ''
-    #- 'Digital environments for social exchange and online games.': ''
-    #- 'Strategies for an equal, safe, and healthy cyber coexistence. Digital etiquette.': ''
-    #- 'Advantages and benefits of interactions in the digital environment.': ''    
-    - 'IT Threats (I)':
-        - 'Botnets' : 'contents/relationships/itthreats/botnets.md'
-        - 'Hacking' : 'contents/relationships/itthreats/hacking.md'
-        - 'Malware' : 'contents/relationships/itthreats/malware.md'
-        - 'Pharming' : 'contents/relationships/itthreats/pharming.md'
-        - 'Phishing' : 'contents/relationships/itthreats/phishing.md'
+- '4. Digital Relationships':
+    - '4.1. Virtual and physical friendship.':
+        - 'Introduction': 'contents/relationships/s41_intro.md'
+    - '4.2. Digital environments for social exchange and online games.':
+        - 'Introduction': 'contents/relationships/s42_intro.md'
+    - '4.3. Strategies for an equal, safe, and healthy cyber coexistence. Digital etiquette.':
+        - 'Introduction': 'contents/relationships/s43_intro.md'
+    - '4.4. Advantages and benefits of interactions in the digital environment.':
+        - 'Introduction': 'contents/relationships/s44_intro.md'   
+    - '4.5. Risks and threats of using devices and online relationships: cyberbullying and fraud':
+        - 'IT Threats (I)':
+            - 'Botnets' : 'contents/relationships/itthreats/botnets.md'
+            - 'Hacking' : 'contents/relationships/itthreats/hacking.md'
+            - 'Malware' : 'contents/relationships/itthreats/malware.md'
+            - 'Pharming' : 'contents/relationships/itthreats/pharming.md'
+            - 'Phishing' : 'contents/relationships/itthreats/phishing.md'
     - 'IT Threats (II)':
-        - 'Ransomware' : 'contents/relationships/itthreats/ransomware.md'
-        - 'SPAM' : 'contents/relationships/itthreats/spam.md'
-        - 'Spoofing' : 'contents/relationships/itthreats/spoofing.md'
-        - 'Spyware' : 'contents/relationships/itthreats/spyware.md'
+            - 'Ransomware' : 'contents/relationships/itthreats/ransomware.md'
+            - 'SPAM' : 'contents/relationships/itthreats/spam.md'
+            - 'Spoofing' : 'contents/relationships/itthreats/spoofing.md'
+            - 'Spyware' : 'contents/relationships/itthreats/spyware.md'
     - 'IT Threats (III)':
-        - 'Trojan Horse' : 'contents/relationships/itthreats/trojan.md'
-        - 'Viruses' : 'contents/relationships/itthreats/virus.md'
-        - 'WiFi Eavesdropping' : 'contents/relationships/itthreats/wifieavesdropping.md'
-        - 'Worms' : 'contents/relationships/itthreats/worms.md'
-        - 'Glossary' : 'contents/relationships/itthreats/glossary.md'
+            - 'Trojan Horse' : 'contents/relationships/itthreats/trojan.md'
+            - 'Viruses' : 'contents/relationships/itthreats/virus.md'
+            - 'WiFi Eavesdropping' : 'contents/relationships/itthreats/wifieavesdropping.md'
+            - 'Worms' : 'contents/relationships/itthreats/worms.md'
+            - 'Glossary' : 'contents/relationships/itthreats/glossary.md'
     - 'Tips for Online Safety and Privacy':
-        - 'Tip 1: Think before you share' : 'contents/relationships/tips/thinkbefore.md'
-        - 'Tip 2: Protect Your Stuff' : 'contents/relationships/tips/protectstuff.md'
-        - 'Tip 3: Know & Use Your Settings' : 'contents/relationships/tips/knowsettings.md'
-        - 'Tip 4: Avoid Scams' : 'contents/relationships/tips/avoidscams.md'
-        - 'Tip 5: Be Positive' : 'contents/relationships/tips/bepositive.md'
-        - 'Tip 6: Internet Safety and Privacy' : 'contents/relationships/tips/safetyprivacy.md'
-    #- 'Addictions. Techno addiction, nomophobia, and online gambling addiction.': ''
+            - 'Tip 1: Think before you share' : 'contents/relationships/tips/thinkbefore.md'
+            - 'Tip 2: Protect Your Stuff' : 'contents/relationships/tips/protectstuff.md'
+            - 'Tip 3: Know & Use Your Settings' : 'contents/relationships/tips/knowsettings.md'
+            - 'Tip 4: Avoid Scams' : 'contents/relationships/tips/avoidscams.md'
+            - 'Tip 5: Be Positive' : 'contents/relationships/tips/bepositive.md'
+            - 'Tip 6: Internet Safety and Privacy' : 'contents/relationships/tips/safetyprivacy.md'
+    - '4.6. Addictions. Techno addiction, nomophobia, and online gambling addiction.':
+            - 'Introduction': 'contents/relationships/s46_intro.md'
 #- 'Programación Didáctica':
 #    - 'Elementos curriculares': 'pd/curriculo/curriculo.md'
 theme:
