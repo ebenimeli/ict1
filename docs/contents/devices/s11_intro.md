@@ -1,6 +1,10 @@
 # 1.1. Smart Devices for Home and School
 
+![Inside Digital Devices](images/s11_header.jpeg)
+
 1.1. Personal computers, mobile devices, and other devices for domestic and educational use
+
+## Learning Objectives
 
 | Ref. | Definition                           | CE | T1 | T2 | T3 |
 | :--- | :----------------------------------- | :--- | :--- | :--- | :--- |

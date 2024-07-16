@@ -1,7 +1,5 @@
 # 1.2. Inside Digital Devices: Key Features and Functions
 
-![Inside Digital Devices](images/s12_header.jpeg)
-
 1.2. Basic functioning and most important characteristics of digital devices
 
 | Ref. | Definition                           | CE | T1 | T2 | T3 |
