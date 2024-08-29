@@ -123,7 +123,15 @@ extra_css:
   
 plugins:
   - glightbox
-
+  - encryptcontent:
+        global_password: ''
+        title_prefix: '[LOCK] '
+        summary: 'This content is protected.'
+        placeholder: 'another password placeholder'
+        decryption_failure_message: 'another informational message when decryption fails'
+        encryption_info_message: "Contact Enrique Benimeli for access to this page"
+        input_class: 'md-search__form md-search__input'
+        button_class: 'md-search__icon'
 markdown_extensions:
   - attr_list
   - footnotes
