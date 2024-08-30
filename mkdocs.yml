@@ -8,27 +8,28 @@ nav:
 - 'Unit 1. Devices, OS and Networks':
   - 'Digital Devices, Operating Systems, and Networks': 'contents/unit01/unit1.md'
   - '1. Smart Devices for Home and School': # SB1.1
-    - 'Introduction': 'contents/devices/s11_intro.md'
-    - 'Personal computers': 'contents/devices/s11_personalcomputers.md'
-    - 'Mobile devices': 'contents/devices/s11_mobiledev.md'
-    - 'Other devices': 'contents/devices/s11_otherdev.md'
-  - '2. Inside Digital Devices: Key Features and Functions': # SB1.2
-    - 'Digital Devices: An Introduction': 'contents/devices/s12_intro.md'
-    - 'The CPU': 'contents/devices/s12_cpu.md'
-    - 'Types of Memories': 'contents/devices/s12_memories.md'
-    - 'Peripheral Devices': 'contents/devices/s12_peripheral.md'
-  - '3. Common operating systems and applications': # SB1.4
-    - 'Introduction': 'contents/devices/s13_intro.md'
-    - 'Operating Systems': 'contents/devices/s13_os.md'
-    - 'Applications': 'contents/devices/s13_apps.md'
-  - '4. Device networks. Fundamentals and ways to access the Internet': # SB1.4
-    - 'Introduction': 'contents/devices/s14_intro.md'
-    - 'The World Wide Web' : 'contents/devices/s14_www.md'
-    - 'Activities & Projects':
-      - 'A01. Title': 'contents/unit01/activity-A01.md'
-      - 'A02. Title': 'contents/unit01/activity-A02.md'
-      - 'A03. Title': 'contents/unit01/activity-A03.md'
-    - 'Glossary': 'contents/unit01/glossary-ud01.md'
+    - 'Introduction': 'contents/unit01/s11_intro.md'
+    - 'Personal computers': 'contents/unit01/s11_personalcomputers.md'
+    - 'Mobile devices': 'contents/unit01/s11_mobiledev.md'
+    - 'Other devices': 'contents/unit01/s11_otherdev.md'
+  # ELIMINAR LA DOBLE COMILLA SIMPLE PARA HABILITAR 2. 3. 4. ETC.
+  - '2. Inside Digital Devices: Key Features and Functions': '' # SB1.2
+  #  - 'Digital Devices: An Introduction': 'contents/devices/s12_intro.md'
+  #  - 'The CPU': 'contents/devices/s12_cpu.md'
+  #  - 'Types of Memories': 'contents/devices/s12_memories.md'
+  #  - 'Peripheral Devices': 'contents/devices/s12_peripheral.md'
+  - '3. Common operating systems and applications': '' # SB1.4
+  #  - 'Introduction': 'contents/devices/s13_intro.md'
+  #  - 'Operating Systems': 'contents/devices/s13_os.md'
+  #  - 'Applications': 'contents/devices/s13_apps.md'
+  - '4. Device networks. Fundamentals and ways to access the Internet': '' # SB1.4
+  #  - 'Introduction': 'contents/devices/s14_intro.md'
+  #  - 'The World Wide Web' : 'contents/devices/s14_www.md'
+  - 'Activities & Projects': ''
+  #    - 'A01. Title': 'contents/unit01/activity-A01.md'
+  #    - 'A02. Title': 'contents/unit01/activity-A02.md'
+  #    - 'A03. Title': 'contents/unit01/activity-A03.md'
+  #  - 'Glossary': 'contents/unit01/glossary-ud01.md'
 # *************************************************************************
 # UNIT 2. Digital World: Access, Safety, and Responsibility
 # *************************************************************************
