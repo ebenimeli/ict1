@@ -15,6 +15,4 @@
     @top-right {
         content: 'Pág. ' counter(page);
     }
-
- 
 }
