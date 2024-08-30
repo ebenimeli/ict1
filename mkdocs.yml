@@ -2,82 +2,87 @@ site_name: Workshop on Responsible Digital Relationships
 use_directory_urls: false
 nav:
 - 'Objectives': 'contents/criteria.md'
-- '1. Digital Devices & Internet':
-    - 'Objectives': 'contents/devices/s1_intro.md'
-    - '1.1. Smart Devices for Home and School':
+- 'Unit 1. Devices, OS and Networks':
+    - 'Digital Devices, Operating Systems, and Networks': 'contents/unit01/unit1.md'
+    - '1. Smart Devices for Home and School': # SB1.1
         - 'Introduction': 'contents/devices/s11_intro.md'
         - 'Personal computers': 'contents/devices/s11_personalcomputers.md'
         - 'Mobile devices': 'contents/devices/s11_mobiledev.md'
         - 'Other devices': 'contents/devices/s11_otherdev.md'
-    - '1.2. Inside Digital Devices: Key Features and Functions':
+    - '2. Inside Digital Devices: Key Features and Functions': # SB1.2
         - 'Digital Devices: An Introduction': 'contents/devices/s12_intro.md'
         - 'The CPU': 'contents/devices/s12_cpu.md'
         - 'Types of Memories': 'contents/devices/s12_memories.md'
         - 'Peripheral Devices': 'contents/devices/s12_peripheral.md'
-    - '1.3. Common operating systems and applications':
+    - '3. Common operating systems and applications': # SB1.4
         - 'Introduction': 'contents/devices/s13_intro.md'
         - 'Operating Systems': 'contents/devices/s13_os.md'
         - 'Applications': 'contents/devices/s13_apps.md'
-    - '1.4. Device networks. Fundamentals and ways to access the Internet':
+    - '4. Device networks. Fundamentals and ways to access the Internet': # SB1.4
         - 'Introduction': 'contents/devices/s14_intro.md'
         - 'The World Wide Web' : 'contents/devices/s14_www.md'
-    - '1.5. The digital divide':
+- 'Unit 2. Access and Safety':
+    - 'Digital World: Access, Safety, and Responsibility': 'contents/unit02/unit2.md'
+    - '1. The digital divide': # SB1.5
         - 'What is Digital Divide?': 'contents/devices/s15_digitaldivide.md'
-    - '1.6. Basic security habits to protect devices':
+    - '2. Basic security habits to protect devices': # SB1.6
         - 'Introduction': 'contents/devices/s16_intro.md'
-    - '1.7. Implications of the use of digital devices for health, sustainability, and the environment. Obsolescence':
+    - '3. Implications of the use of digital devices for health, sustainability, and the environment. Obsolescence': # SB1.7
         - 'Introduction': 'contents/devices/s17_intro.md'
         - 'Digital Devices and Health': 'contents/devices/s17_intro.md'
         - 'Sustainability and Environment': 'contents/devices/s17_intro.md'
         - 'Obsolescence': 'contents/devices/s17_intro.md'
-- '2. Digital Content':
-        - '0. Introduction' : 'contents/digitalcontents/s2_intro.md'
-        - '2.1. Types of web search engines and their filtering tools' :
-            - 'Introduction': 'contents/digitalcontents/s21_intro.md'
-            - 'Search Engines': 'contents/digitalcontents/s21_searchengines.md'
-            - 'Filtering tolls': 'contents/digitalcontents/s21_filteringtools.md'
-        - '2.2. Selecting information in digital media through web search engines, verifying its accuracy' :
-            - 'Introduction': 'contents/digitalcontents/s22_intro.md'            
-        - '2.3. Reading and interpreting information from digital media':
-            - 'Introduction': 'contents/digitalcontents/s23_intro.md'
-        - '2.4. Intellectual property and copyright':
-            - 'Introduction': 'contents/digitalcontents/s24_intro.md'
-        - '2.5. Detecting fake news, hoaxes, and hate speech. Social implications':
-            - 'Introduction': 'contents/digitalcontents/s25_intro.md'
-        - '2.6. Organization of information. Basic operations with files and folders':
-            - 'Introduction': 'contents/digitalcontents/s26_intro.md'
-        - '2.7. Customizing the work environment':
-            - 'Introduction': 'contents/digitalcontents/s27_intro.md'
-        - '2.8. Basic content creation with digital tools':
-            - 'Introduction': 'contents/digitalcontents/s28_intro.md'
-        - '2.9. Aesthetics and audiovisual language':
-            - 'Introduction': 'contents/digitalcontents/s29_intro.md'
-- '3. Digital Identity':
-    - '0. Introduction' : 'contents/digitalid/s31_intro.md'
-    - '3.1. Personal identity on the Internet. Aliases and avatars':
+- 'Unit 3. Searching Information':
+    - 'Searching and Selecting Information': 'contents/unit03/unit3.md'
+    - '1. Types of web search engines and their filtering tools' : # SB 2.1
+        - 'Introduction': 'contents/digitalcontents/s21_intro.md'
+        - 'Search Engines': 'contents/digitalcontents/s21_searchengines.md'
+        - 'Filtering tolls': 'contents/digitalcontents/s21_filteringtools.md'
+    - '2. Selecting information in digital media through web search engines, verifying its accuracy' : # SB 2.2
+        - 'Introduction': 'contents/digitalcontents/s22_intro.md'            
+    - '3. Reading and interpreting information from digital media': # SB2.3
+        - 'Introduction': 'contents/digitalcontents/s23_intro.md'
+    - '4. Intellectual property and copyright': # SB2.4
+        - 'Introduction': 'contents/digitalcontents/s24_intro.md'
+    - '5. Detecting fake news, hoaxes, and hate speech. Social implications': # SB2.5
+        - 'Introduction': 'contents/digitalcontents/s25_intro.md'
+- 'Unit 4. Creation of Content':
+    - 'Organization and Creation of Content': 'contents/unit04/unit4.md'
+    - '1. Organization of information. Basic operations with files and folders': # SB2.6
+        - 'Introduction': 'contents/digitalcontents/s26_intro.md'
+    - '2. Customizing the work environment': # SB2.7
+        - 'Introduction': 'contents/digitalcontents/s27_intro.md'
+    - '3. Basic content creation with digital tools': # SB2.8
+        - 'Introduction': 'contents/digitalcontents/s28_intro.md'
+    - '4. Aesthetics and audiovisual language': # SB2.9
+        - 'Introduction': 'contents/digitalcontents/s29_intro.md'
+- 'Unit 5. Digital Identity':
+    - 'Digital Identity' : 'contents/unit05/unit5.md'
+    - '1. Personal identity on the Internet. Aliases and avatars': # SB3.1
         - 'Understanding Digital Identity: What it is and why it is important': 'contents/digitalid/s31_xxx.md'
-    - '3.2. Self-concept and external perception of digital identity':
+    - '2. Self-concept and external perception of digital identity': # SB3.2
         - 'Creating Online Personas: Choosing Usernames and Avatars': 'contents/digitalid/aliasavatar.md'
-    - '3.3. Sociocultural references in the construction of digital identity. Influential people':
+    - '3. Sociocultural references in the construction of digital identity. Influential people': # SB3.3
         - 'How We See Ourselves and Others See Us Online: Self-image and Perception': 'contents/digitalid/selfconcept.md'
         - 'People Who Influence Our Digital Identity': 'contents/digitalid/influencers.md'
-    - '3.4. Personal exposure on the network. Digital footprint':
+    - '4. Personal exposure on the network. Digital footprint': # SB3.4
         - 'Leaving Our Mark Online: Digital Footprints and Online Reputation': 'contents/digitalid/footprint.md'
-    - '3.5. Behaviors and habits to take care of digital identity':
+    - '5. Behaviors and habits to take care of digital identity': #SB3.5
         - 'Being a Responsible Digital Citizen': 'contents/digitalid/behaviours.md'
-    - '3.6. Privacy on the web. Protection of personal data. Information and consent':
+    - '6. Privacy on the web. Protection of personal data. Information and consent': #SB3.6
         - 'Staying Safe Online: Protecting Our Personal Information and Privacy': 'contents/digitalid/privacy.md'
         - 'Fake News, Hate Speech, and Online Platforms': 'contents/digitalid/fakehateonline.md'
-- '4. Digital Relationships':
-    - '4.1. Virtual and physical friendship.':
+- 'Unit 6. Digital Relationships':
+    - 'Relationships in the Digital Environment': 'contents/unit06/unit6.md'
+    - '1. Virtual and physical friendship.': #SB4.1
         - 'Introduction': 'contents/relationships/s41_intro.md'
-    - '4.2. Digital environments for social exchange and online games.':
+    - '2. Digital environments for social exchange and online games.': # SB4.2
         - 'Introduction': 'contents/relationships/s42_intro.md'
-    - '4.3. Strategies for an equal, safe, and healthy cyber coexistence. Digital etiquette.':
+    - '3. Strategies for an equal, safe, and healthy cyber coexistence. Digital etiquette.': #SB4.3
         - 'Introduction': 'contents/relationships/s43_intro.md'
-    - '4.4. Advantages and benefits of interactions in the digital environment.':
+    - '4. Advantages and benefits of interactions in the digital environment.': # SB4.4
         - 'Introduction': 'contents/relationships/s44_intro.md'   
-    - '4.5. Risks and threats of using devices and online relationships: cyberbullying and fraud':
+    - '5. Risks and threats of using devices and online relationships: cyberbullying and fraud': # SB4.5
         - 'IT Threats (I)':
             - 'Botnets' : 'contents/relationships/itthreats/botnets.md'
             - 'Hacking' : 'contents/relationships/itthreats/hacking.md'
@@ -102,7 +107,7 @@ nav:
             - 'Tip 4: Avoid Scams' : 'contents/relationships/tips/avoidscams.md'
             - 'Tip 5: Be Positive' : 'contents/relationships/tips/bepositive.md'
             - 'Tip 6: Internet Safety and Privacy' : 'contents/relationships/tips/safetyprivacy.md'
-    - '4.6. Addictions. Techno addiction, nomophobia, and online gambling addiction.':
+    - '6. Addictions. Techno addiction, nomophobia, and online gambling addiction.': # SB4.6
             - 'Introduction': 'contents/relationships/s46_intro.md'
 #- 'Programación Didáctica':
 #    - 'Elementos curriculares': 'pd/curriculo/curriculo.md'
