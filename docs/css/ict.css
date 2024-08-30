@@ -105,7 +105,7 @@ li[class^="toctree-"] a.reference.internal:hover {
     color: white;
 }
 */
-
+/*
 li.toctree-l1 a.reference.internal {
     background-color: #dcdcdc;
     color: black;
@@ -125,11 +125,12 @@ li.toctree-l2 a.reference.internal:hover {
     background-color: #696969;
     color: white;
 }
+*/
 
 /**
     Replace the !important solution. Not recommended
 **/
-
+/*
 li.toctree-l3 a {
     background-color: #dcdcdc!important;
     color: black;
@@ -144,7 +145,7 @@ td[content="ICT1A"] {
     background-color: yellow!important;
     font-weight: bold;
 }
-
+*/
 progress {
     width: 700px;
     height: 25px;

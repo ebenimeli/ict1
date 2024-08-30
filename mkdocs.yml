@@ -1,7 +1,10 @@
 site_name: Workshop on Responsible Digital Relationships
 use_directory_urls: false
 nav:
-- 'Objectives': 'contents/criteria.md'
+#- 'Objectives': 'contents/criteria.md'
+# *************************************************************************
+# UNIT 1. Digital Devices, Operating Systems, and Networks
+# *************************************************************************
 - 'Unit 1. Devices, OS and Networks':
   - 'Digital Devices, Operating Systems, and Networks': 'contents/unit01/unit1.md'
   - '1. Smart Devices for Home and School': # SB1.1
@@ -26,6 +29,9 @@ nav:
       - 'A02. Title': 'contents/unit01/activity-A02.md'
       - 'A03. Title': 'contents/unit01/activity-A03.md'
     - 'Glossary': 'contents/unit01/glossary-ud01.md'
+# *************************************************************************
+# UNIT 2. Digital World: Access, Safety, and Responsibility
+# *************************************************************************
 - 'Unit 2. Access and Safety':
   - 'Digital World: Access, Safety, and Responsibility': 'contents/unit02/unit2.md'
   - '1. The digital divide': # SB1.5
@@ -141,6 +147,10 @@ nav:
     - 'Glossary': 'contents/unit06/glossary-ud06.md'
 #- 'Programación Didáctica':
 #    - 'Elementos curriculares': 'pd/curriculo/curriculo.md'
+- 'More':
+  - 'Blog': 'https://www.esferatic.com'
+  - 'Instagram': 'https://www.instagram.com/esferatic'
+
 theme:
     language: es
     name: 'readthedocs'
@@ -157,7 +167,6 @@ theme:
 #        - navigation.expand
 
 extra_css:
-  - css/printpdf.css
   - css/ict.css
 
 plugins:
