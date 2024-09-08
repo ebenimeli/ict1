@@ -205,3 +205,12 @@ ul li {
     list-style-type: square!important;
     line-height: normal!important;
 }
+
+div.glightbox {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.glightbox a img {
+    width: 90%;
+}
