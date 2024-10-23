@@ -15,7 +15,7 @@ nav:
 - 'Unit 1. Devices, OS and Networks':
   - 'Digital Devices, Operating Systems, and Networks': 'contents/unit01/unit1.md'
   - '1. Smart Devices for Home and School': # SB1.1
-    - 'Introduction': 'contents/unit01/s11_intro.md'
+    - 'Digital Devices: An Overview': 'contents/unit01/s11_intro.md'
     - 'Personal computers': 'contents/unit01/s11_personalcomputers.md'
   #  - 'Mobile devices': 'contents/unit01/s11_mobiledev.md'
   #  - 'Other devices': 'contents/unit01/s11_otherdev.md'

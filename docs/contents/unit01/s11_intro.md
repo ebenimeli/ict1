@@ -6,6 +6,66 @@
 
 In today's world, digital devices play a crucial role in both our daily lives and educational environments. Let's explore the various types of devices, their uses, and how they contribute to our learning and daily activities.
 
+<div class="glightbox">
+  <a href="slides/unit1-1/Diapositiva1.jpeg" class="glightbox">
+    <img src="slides/unit1-1/Diapositiva1.jpeg" alt="" />
+  </a>
+    <a href="slides/unit1-1/Diapositiva2.jpeg" class="glightbox hidden">
+    <img src="slides/unit-1/Diapositiva2.jpeg" alt="" />
+  </a>
+  </a>
+  <a href="slides/unit1-1/Diapositiva3.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-1/Diapositiva3.jpeg" alt="" />
+  </a>
+  <a href="slides/unit1-1/Diapositiva4.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-1/Diapositiva4.jpeg" alt="" />
+  </a>
+  <a href="slides/unit1-1/Diapositiva5.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-1/Diapositiva5.jpeg" alt="" />
+  </a>
+  <a href="slides/unit1-1/Diapositiva6.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-1/Diapositiva6.jpeg" alt="" />
+  </a>
+  <a href="slides/unit1-1/Diapositiva7.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-1/Diapositiva7.jpeg" alt="" />
+  </a>
+  <a href="slides/unit1-1/Diapositiva8.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-1/Diapositiva8.jpeg" alt="" />
+  </a>
+  <a href="slides/unit1-1/Diapositiva9.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-1/Diapositiva9.jpeg" alt="" />
+  </a>
+  <a href="slides/unit1-1/Diapositiva10.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-1/Diapositiva10.jpeg" alt="" />
+  </a>
+  <a href="slides/unit1-1/Diapositiva11.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-1/Diapositiva11.jpeg" alt="" />
+  </a>
+  <a href="slides/unit1-1/Diapositiva12.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-1/Diapositiva12.jpeg" alt="" />
+  </a>
+  <a href="slides/unit1-1/Diapositiva13.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-1/Diapositiva13.jpeg" alt="" />
+  </a>
+  <a href="slides/unit1-1/Diapositiva14.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-1/Diapositiva14.jpeg" alt="" />
+  </a>
+  <a href="slides/unit1-1/Diapositiva15.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-1/Diapositiva15.jpeg" alt="" />
+  </a>
+  <a href="slides/unit1-1/Diapositiva16.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-1/Diapositiva16.jpeg" alt="" />
+  </a>
+  <a href="slides/unit1-1/Diapositiva17.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-1/Diapositiva17.jpeg" alt="" />
+  </a>
+  <a href="slides/unit1-1/Diapositiva18.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-1/Diapositiva18.jpeg" alt="" />
+  </a>
+</div>
+
+<br/>
+
 ## Personal Computers
 
 Personal computers (PCs) are perhaps the most versatile and powerful digital devices we use. They come in two main forms: desktops and laptops.
@@ -43,3 +103,7 @@ In addition, digital devices prepare students for the future workforce, where di
 ## Conclusion
 
 Personal computers, mobile devices, and other digital tools are integral to modern life and education. They provide numerous benefits, including increased access to information, enhanced learning experiences, and greater convenience in daily tasks. Understanding how to effectively use these devices is essential for both personal growth and academic success.
+
+<script>
+  const lightbox = GLightbox({});
+</script>
