@@ -20,11 +20,13 @@ nav:
   #  - 'Mobile devices': 'contents/unit01/s11_mobiledev.md'
   #  - 'Other devices': 'contents/unit01/s11_otherdev.md'
   # ELIMINAR LA DOBLE COMILLA SIMPLE PARA HABILITAR 2. 3. 4. ETC.
-  #- '2. Inside Digital Devices: Key Features and Functions': ''# SB1.2
-  #  - 'Digital Devices: An Introduction': 'contents/devices/s12_intro.md'
-  #  - 'The CPU': 'contents/devices/s12_cpu.md'
-  #  - 'Types of Memories': 'contents/devices/s12_memories.md'
-  #  - 'Peripheral Devices': 'contents/devices/s12_peripheral.md'
+  - '2. Inside Digital Devices: Key Features and Functions': # SB1.2
+    #  - 'Digital Devices: An Introduction': 'contents/devices/s12_intro.md'
+     - 'Computer Science': 'contents/unit01/computer_science.md'
+     - 'Hardware and Software': 'contents/unit01/hw_sw.md'
+     - 'Computer Components': 'contents/unit01/pc_main_components.md'
+     - 'Storage Devices': 'contents/unit01/storage_devices.md'
+     - 'Peripheral Devices': 'contents/devices/peripheral.md'
   #- '3. Common operating systems and applications': '' # SB1.4
   #  - 'Introduction': 'contents/devices/s13_intro.md'
   #  - 'Operating Systems': 'contents/devices/s13_os.md'
