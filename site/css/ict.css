@@ -203,7 +203,7 @@ div.toc ul li a {
 
 ul li {
     list-style-type: square!important;
-    line-height: normal!important;
+    /*line-height: normal!important;*/
 }
 
 div.glightbox {
@@ -229,3 +229,12 @@ img.header {
     display: block;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
+/*
+ul li {
+    line-height: normal!important;
+}
+
+ol li {
+    line-height: normal!important;
+}
+    */
