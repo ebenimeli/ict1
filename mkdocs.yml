@@ -19,7 +19,6 @@ nav:
     - 'Personal computers': 'contents/unit01/s11_personalcomputers.md'
     - 'Mobile devices': 'contents/unit01/s11_mobiledev.md'
     - 'Other devices': 'contents/unit01/s11_otherdev.md'
-  # ELIMINAR LA DOBLE COMILLA SIMPLE PARA HABILITAR 2. 3. 4. ETC.
   - '2. Inside Digital Devices: Key Features and Functions': # SB1.2
     #  - 'Digital Devices: An Introduction': 'contents/devices/s12_intro.md'
      - 'Computer Science': 'contents/unit01/computer_science.md'
@@ -27,10 +26,11 @@ nav:
      - 'Computer Components': 'contents/unit01/pc_main_components.md'
      - 'Storage Devices': 'contents/unit01/storage_devices.md'
      - 'Peripheral Devices': 'contents/unit01/peripheral.md'
-  #- '3. Common operating systems and applications': '' # SB1.4
-  #  - 'Introduction': 'contents/devices/s13_intro.md'
-  #  - 'Operating Systems': 'contents/devices/s13_os.md'
-  #  - 'Applications': 'contents/devices/s13_apps.md'
+  - '3. Common operating systems and applications': # SB1.4
+     - 'Introduction': 'contents/unit01/s13_intro.md'
+     - 'Operating Systems': 'contents/unit01/s13_os.md'
+     - 'Applications': 'contents/unit01/s13_apps.md'
+  # ELIMINAR LA DOBLE COMILLA SIMPLE PARA HABILITAR 2. 3. 4. ETC.
   #- '4. Device networks. Fundamentals and ways to access the Internet': '' # SB1.4
   #  - 'Introduction': 'contents/devices/s14_intro.md'
   #  - 'The World Wide Web' : 'contents/devices/s14_www.md'
