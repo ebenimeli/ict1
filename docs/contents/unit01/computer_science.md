@@ -1,5 +1,7 @@
 # Computer Science
 
+<img src="images/computers.jpg" class="header">
+
 ## What is Computer Science?
 
 Computer science is the study of computers and how they work. It helps us understand how computers are built (hardware) and how we make them do specific tasks (software). Computer science also looks at how computers can connect with each other through networks and the Internet. This connection lets computers share information all around the world.
