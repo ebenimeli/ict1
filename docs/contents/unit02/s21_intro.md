@@ -18,7 +18,7 @@ Networks are commonly used to:
 
 2. **WAN (Wide Area Network)**: Extends over a large geographical area, such as a city, country, or even globally. The Internet is the largest example of a WAN, connecting numerous LANs and other networks over long distances.
 
-3. **PAN (Personal Area Network)**: A small network designed for personal devices within a close range, typically a few meters. Examples include Bluetooth or Wi-Fi connections between devices like smartphones, laptops, and smartwatches.
+3. **PAN (Personal Area Network)**: A small network designed for personal devices within a close range, typically a few meters. Examples: Bluetooth connections between devices like smartphones, laptops, and smartwatches.
 
 4. **MAN (Metropolitan Area Network)**: Covers a city or a large campus, providing connectivity for LANs within an urban or metropolitan area. MANs are larger than LANs but smaller than WANs, commonly used to connect networks across a city or extensive campus.
 
