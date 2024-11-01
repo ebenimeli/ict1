@@ -1,23 +1,37 @@
-# What is the World Wide Web?
+# World Wide Web (WWW)
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/J8hzJxb0rpc' frameborder='0' allowfullscreen></iframe></div>
+## World Wide Web vs. Internet
 
-<br/>
+Many people think that the **Internet** and the **World Wide Web** are the same, but they are distinct systems that work closely together:
 
-The World Wide Web, where you're likely watching this video, is used by millions of people every day for everything from checking the weather, ordering food, and chatting with friends to raising funds, sharing news, or starting revolutions. We use it from our computers, our phones, even our cars. It's just there, all around us, all the time. But what is it exactly?
+- The **Internet** is a global network of interconnected computers and devices, using various protocols to communicate and share data.
+- The **World Wide Web** (often referred to as the "web" or "www") is a collection of information, organized in the form of webpages, which are accessible through the internet. Your web browser uses the internet to retrieve and display these pages.
 
-Well first of all, the World Wide Web is not the Internet, even though the terms are often used interchangeably. The Internet is simply the way computers connect to each other in order to share information. When the Internet first emerged, computers actually made direct calls to each other. Today, networks are all around us, so computers can communicate seamlessly. The communication enabled through the Internet has many uses, such as email, file transfer, and conferencing. But the most common use is accessing the World Wide Web.
+## History of the World Wide Web
 
-Think of the Web as a bunch of skyscrapers, each representing a web server, a computer always connected to the Internet, specifically designed to store information and share it. When someone starts a website, they are renting a room in this skyscraper, filling it with information and linking that information together in an organized way for others to access. The people who own these skyscrapers and rent space in them are called web hosts, but anyone can set up a web server with the right equipment and a bit of know-how.
+The **World Wide Web** was invented in 1989 by **Sir Tim Berners-Lee** as a tool to help scientists easily share and access experiment data. At that time, both **hypertext** and the **internet** existed, but there was no way to link one document to another across the internet. The web enabled this linking through a combination of hypertext and internet technologies, opening up the internet to the general public and allowing people to connect, share, and communicate in unprecedented ways. Today, people use the web to share content through social networks, blogs, and video platforms.
 
-There's another part to having a website, without which we would be lost in the city with no way of finding what we need. This is the website address, which consists of domain names. Just like with a real-life address, a website address lets you get where you want to go. The information stored in the websites is in web languages, such as HTML and JavaScript.
+## Key Components of the Web
 
-When we find the website we're looking for, our web browser is able to take all the code on the site and turn it into words, graphics, and videos. We don't need to know any special computer languages because the web browser creates a graphic interface for us.
+1. **HyperText Markup Language (HTML)**  
+   **HTML** is the standard markup language used to create webpages. It allows for formatting documents, embedding multimedia, and linking to other resources. While web browsers don’t display HTML code itself, they use it to render the content of each page.
 
-So, in a lot of ways, the World Wide Web is a big virtual city where we communicate with each other in web languages, with browsers acting as our translators. And just like no one owns a city, no one owns the Web; it belongs to all of us. Anyone can move in and set up shop. We might have to pay an Internet service provider to gain access, a hosting company to rent web space, or a registrar to reserve our web address. Like utility companies in a city, these companies provide crucial services, but in the end, not even they own the Web.
+2. **Uniform Resource Locator (URL)**  
+   A **URL** is the unique "address" for each resource on the web. It identifies the location of files, webpages, and other resources, enabling browsers to open websites and download files like images, videos, or software hosted on servers.
 
-But what really makes the Web so special lies in its very name. Prior to the Web, we used to consume most information in a linear fashion. In a book or newspaper article, each sentence was read from beginning to end, page by page, in a straight line until you reached the end. But that isn't how our brains actually work. Each of our thoughts is linked to other thoughts, memories, and emotions in a loose interconnected network, like a web.
+3. **Web Server**  
+   A **web server** is a program that uses **HTTP (Hypertext Transfer Protocol)** to serve files that make up a website to users, responding to requests from browsers. Common web server software includes **Apache** and **Microsoft IIS**.
 
-Tim Berners-Lee, the father of the World Wide Web, understood that we needed a way to organize information that mirrored this natural arrangement. And the Web accomplishes this through hyperlinks. By linking several pages within a website or even redirecting you to other websites to expand on information or ideas immediately as you encounter them, hyperlinks allow the Web to operate along the same lines as our thought patterns.
+4. **HTTP (Hypertext Transfer Protocol)**  
+   **HTTP** is the protocol used to transfer data across the web. It operates in a client-server model, where the **client** (like a computer or mobile device) sends requests, and the **server** responds by delivering the requested webpage or resource.
 
-The Web is so much a part of our lives because in content and structure, it reflects both the wider society and our individual minds. And it connects those minds across all boundaries, not only ethnicity, gender, and age but even time and space.
+5. **Secure Websites: HTTPS (HyperText Transfer Protocol Secure)**  
+   **HTTPS** is an extension of HTTP, designed to provide secure data transmission through an **SSL/TLS** (Secure Sockets Layer/Transport Layer Security) encryption. Websites that handle sensitive information, like banking or e-commerce sites, use HTTPS. A web address starting with `https://` indicates a secure connection, often accompanied by a lock icon in the browser.
+
+6. **Web Browsers**  
+   A **web browser**, or simply "browser," is a software application used to access and view websites. Popular browsers include **Microsoft Edge**, **Google Chrome**, **Mozilla Firefox**, **Opera**, and **Apple Safari**. Browsers interpret HTML and other web technologies to render content, which includes text, images, and multimedia elements on the webpage.
+
+7. **Search Engines**  
+   **Search engines** are tools that index and categorize millions of websites, allowing users to search for information using keywords. They scan documents and files on the web and return results based on relevance to the search terms. Well-known search engines include **Google**, **Bing**, and **Yahoo**.
+
+These components work together to enable the functionality of the World Wide Web and make accessing, sharing, and creating information online straightforward and convenient.
