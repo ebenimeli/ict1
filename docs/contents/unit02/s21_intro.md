@@ -1,5 +1,7 @@
 # Computer Networks
 
+## Definition and functions
+
 **A computer network** is a group of computer systems linked together through communication channels to enable communication, resource-sharing, and data exchange efficiently and securely.
 
 Networks are commonly used to:

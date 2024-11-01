@@ -4,7 +4,7 @@
 
 ## Summary
 
-This unit addresses the digital divide, highlighting basic safety habits to protect digital devices. It examines the implications of technology use in terms of health, sustainability, and obsolescence. Evaluation criteria include identifying basic features of digital devices in home and educational contexts, selecting the most suitable device and Internet access, securely connecting devices, and recognizing the impact of technology use on health and the environment. The adoption of safety habits to protect devices is emphasized.
+This unit focuses on connecting devices to the Internet, covering networking fundamentals and access methods. It also addresses the digital divide and emphasizes essential safety habits for protecting digital devices. Additionally, it examines the implications of technology use regarding health, sustainability, and obsolescence. Evaluation criteria include identifying device features, selecting appropriate Internet access methods, securely connecting devices, and recognizing the impact of technology use on health and the environment
 
 ## Learning Objectives
 

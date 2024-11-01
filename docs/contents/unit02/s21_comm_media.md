@@ -1,5 +1,7 @@
 # Types of Communication Media
 
+## Communication and Bandwidth
+
 The term **communication medium** refers to the physical channel through which data is sent and received. The speed of data transmission, or data rate, depends on the type of medium used in the network. Communication media can be broadly categorized into two types:
 
 - **Wired networks**
@@ -19,6 +21,10 @@ Bandwidth describes the maximum data transfer rate of a network or Internet conn
 
 3. **Fiber Optic Cable**  
    **Fiber optic cables** are network cables containing thin strands of glass fibers, encased in insulation, that enable high-speed data transmission. Compared to traditional copper cables, fiber optic cables offer higher bandwidth and can transmit data over much longer distances. They support a significant portion of the world’s internet infrastructure, cable television, and telephone systems.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VioC059uMVk?si=f8O5lnuUju3u0rxd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
 
 ## Wireless Communication
 

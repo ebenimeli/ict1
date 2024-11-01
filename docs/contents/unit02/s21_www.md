@@ -7,6 +7,10 @@ Many people think that the **Internet** and the **World Wide Web** are the same,
 - The **Internet** is a global network of interconnected computers and devices, using various protocols to communicate and share data.
 - The **World Wide Web** (often referred to as the "web" or "www") is a collection of information, organized in the form of webpages, which are accessible through the internet. Your web browser uses the internet to retrieve and display these pages.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J8hzJxb0rpc?si=9jeviF7m0qTXUFA_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
 ## History of the World Wide Web
 
 The **World Wide Web** was invented in 1989 by **Sir Tim Berners-Lee** as a tool to help scientists easily share and access experiment data. At that time, both **hypertext** and the **internet** existed, but there was no way to link one document to another across the internet. The web enabled this linking through a combination of hypertext and internet technologies, opening up the internet to the general public and allowing people to connect, share, and communicate in unprecedented ways. Today, people use the web to share content through social networks, blogs, and video platforms.
@@ -35,3 +39,7 @@ The **World Wide Web** was invented in 1989 by **Sir Tim Berners-Lee** as a tool
    **Search engines** are tools that index and categorize millions of websites, allowing users to search for information using keywords. They scan documents and files on the web and return results based on relevance to the search terms. Well-known search engines include **Google**, **Bing**, and **Yahoo**.
 
 These components work together to enable the functionality of the World Wide Web and make accessing, sharing, and creating information online straightforward and convenient.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b1hlBjsdo2A?si=gojKLuY6oaQZqDQR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
