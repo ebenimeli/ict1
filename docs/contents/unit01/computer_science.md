@@ -1,11 +1,13 @@
 # Computer Science
 
-**What is Computer Science?**  
+## What is Computer Science?
+
 Computer science is the study of computers and how they work. It helps us understand how computers are built (hardware) and how we make them do specific tasks (software). Computer science also looks at how computers can connect with each other through networks and the Internet. This connection lets computers share information all around the world.
 
 We use computers to help us in many ways. For example, computers can play games, help us write stories, or find information online. Computer science teaches us how to make computers useful tools in our daily lives, whether at school, at home, or even in jobs someday.
 
-**How We Use Computers**  
+## How We Use Computers
+
 When we use a computer, there are three main steps. These steps help the computer turn our data, or information, into something useful for us.
 
 1. **Data Input**: First, we need to give information, or data, to the computer. This step is called input. We might type words on a keyboard or use other devices to add data. For example, if we want to add a picture to the computer, we can use a scanner to scan the image or a digital camera to take a photo. These tools help put our data into the computer.
