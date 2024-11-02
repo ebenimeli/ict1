@@ -1,6 +1,8 @@
 # Workshop on Responsible Digital Relationships
 
-![Social Media](images/socialmedia.png)
+## 1ESO · 2024/2025
+
+<img src="images/wrdr_illustration3.jpeg" class="header">
 
 In this course you will learn how to:
 

@@ -1,6 +1,10 @@
 ## The Digital Divide
 
-The "digital divide" means the difference between people who have easy access to digital technology, like computers and the internet, and people who do not. This difference can make learning and working harder for some people.
+<div class="note">
+The "digital divide" means the <b>difference</b> between people who have easy <b>access to digital technology</b>, like computers and the internet, and people who do not.
+</div>
+
+This difference can make learning and working harder for some people.
 
 ### Example of the Digital Divide
 
@@ -29,3 +33,7 @@ The digital divide can affect people's lives in important ways:
 There are many ways to help close the digital divide. Schools and libraries often have free internet and computers for students to use. Some organizations also give computers to families or offer low-cost internet services. Teaching digital skills in school helps everyone learn to use technology.
 
 Closing the digital divide is important so everyone has a fair chance to learn, work, and participate in today’s digital world. By working together, we can help bridge this gap and make a more connected and equal society.
+
+### Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ed8JDY9I2bw?si=CIZixQa5LAGjnSSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

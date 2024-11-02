@@ -13,7 +13,7 @@ nav:
 # UNIT 1. Digital Devices, Operating Systems, and Networks
 # *************************************************************************
 - 'Unit 1. Devices, OS and Apps':
-  - 'Digital Devices, Operating Systems, and Networks': 'contents/unit01/unit1.md'
+  - 'Digital Devices, Operating Systems, and Apps': 'contents/unit01/unit1.md'
   - '1. Smart Devices for Home and School': # SB1.1
     - 'Digital Devices: An Overview': 'contents/unit01/s11_intro.md'
     - 'Personal computers': 'contents/unit01/s11_personalcomputers.md'
@@ -39,7 +39,7 @@ nav:
 # UNIT 2. Digital World: Access, Safety, and Responsibility
 # *************************************************************************
 - 'Unit 2. Networks, Access and Safety':
-  - 'Digital World: Access, Safety, and Responsibility': 'contents/unit02/unit2.md'
+  - 'Digital World: Networks, Access, Safety, and Responsibility': 'contents/unit02/unit2.md'
   - '1. Device networks. Fundamentals and ways to access the Internet': # SB1.4
      - 'Computer Networks': 'contents/unit02/s21_intro.md'
      - 'Communication Media': 'contents/unit02/s21_comm_media.md'
