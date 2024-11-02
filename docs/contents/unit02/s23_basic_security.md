@@ -1,5 +1,7 @@
 # Basic Security Habits to Protect Devices
 
+<img src="images/security.jpg" class="header">
+
 Learning to keep our devices secure is important. Devices like tablets, smartphones, and computers help us with school, communicate with friends, and play games. But if we are not careful, our devices can be at risk. Hackers, viruses, and other dangers can make our devices stop working or can steal our information. Here are some basic security habits to protect our devices.
 
 ## 1. Connect to the Internet Safely

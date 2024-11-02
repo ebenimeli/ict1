@@ -1,5 +1,7 @@
 ## The Digital Divide
 
+<img src="images/digital_divide_edu.jpeg" class="header">
+
 <div class="note">
 The "digital divide" means the <b>difference</b> between people who have easy <b>access to digital technology</b>, like computers and the internet, and people who do not.
 </div>

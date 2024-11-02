@@ -1,5 +1,7 @@
 # Sustainability and Environment
 
+<img src="images/environment.png" class="header">
+
 ## Effects on the Environment
 
 Digital devices help us in many ways, but they also affect the environment:
