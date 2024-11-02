@@ -45,17 +45,16 @@ nav:
      - 'Communication Media': 'contents/unit02/s21_comm_media.md'
      - 'Client-Server Model': 'contents/unit02/s21_client_server.md'
      - 'The World Wide Web' : 'contents/unit02/s21_www.md'
-     - 'WWW · Video' : 'contents/unit01/s21_www_video.md'
-  # ELIMINAR LA DOBLE COMILLA SIMPLE PARA HABILITAR 2. 3. 4. ETC.
-#  - '2. The digital divide': # SB1.5
-#    - 'What is Digital Divide?': 'contents/devices/s15_digitaldivide.md'
-#  - '3. Basic security habits to protect devices': # SB1.6
-#    - 'Introduction': 'contents/devices/s16_intro.md'
-#  - '4. Implications of the use of digital devices for health, sustainability, and the environment. Obsolescence': # SB1.7
-#    - 'Introduction': 'contents/devices/s17_intro.md'
-#    - 'Digital Devices and Health': 'contents/devices/s17_intro.md'
-#    - 'Sustainability and Environment': 'contents/devices/s17_intro.md'
-#    - 'Obsolescence': 'contents/devices/s17_intro.md'
+     - 'WWW · Video' : 'contents/unit02/s21_www_video.md'
+  - '2. The digital divide': # SB1.5
+    - 'What is Digital Divide?': 'contents/unit02/s22_digitaldivide.md'
+  - '3. Basic security habits to protect devices': # SB1.6
+    - 'Security Habits': 'contents/unit02/s23_basic_security.md'
+  - '4. Implications of the use of digital devices': # SB1.7
+    - 'Effects of using Digital Devices': 'contents/unit02/s24.md'
+    - 'Digital Devices and Health': 'contents/unit02/s24_devices_health.md'
+    - 'Sustainability and Environment': 'contents/unit02/s24_environment.md'
+    - 'Obsolescence': 'contents/unit02/s24_obsolescence.md'
 #  - 'Activities & Projects':
 #    - 'A01. Title': 'contents/unit02/activity-A01.md'
 #    - 'A02. Title': 'contents/unit02/activity-A02.md'
@@ -64,6 +63,7 @@ nav:
 # *************************************************************************
 # UNIT 3. Searching and Selecting Information
 # *************************************************************************
+# ELIMINAR LA DOBLE COMILLA SIMPLE PARA HABILITAR 2. 3. 4. ETC.
 - 'Unit 3. Searching Information':
   - 'Searching and Selecting Information': 'contents/unit03/unit3.md'
 #  - '1. Types of web search engines and their filtering tools' : # SB 2.1
