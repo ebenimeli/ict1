@@ -8,6 +8,39 @@ The "digital divide" means the <b>difference</b> between people who have easy <b
 
 This difference can make learning and working harder for some people.
 
+<div class="glightbox">
+  <a href="slides/unit2-2/Diapositiva1.jpeg" class="glightbox">
+    <img src="slides/unit2-2/Diapositiva1.jpeg" alt="" />
+  </a>
+    <a href="slides/unit2-2/Diapositiva2.jpeg" class="glightbox hidden">
+    <img src="slides/unit2-2/Diapositiva2.jpeg" alt="" />
+  </a>
+  </a>
+  <a href="slides/unit2-2/Diapositiva3.jpeg" class="glightbox hidden">
+    <img src="slides/unit2-2/Diapositiva3.jpeg" alt="" />
+  </a>
+  <a href="slides/unit2-2/Diapositiva4.jpeg" class="glightbox hidden">
+    <img src="slides/unit2-2/Diapositiva4.jpeg" alt="" />
+  </a>
+  <a href="slides/unit2-2/Diapositiva5.jpeg" class="glightbox hidden">
+    <img src="slides/unit2-2/Diapositiva5.jpeg" alt="" />
+  </a>
+  <a href="slides/unit2-2/Diapositiva6.jpeg" class="glightbox hidden">
+    <img src="slides/unit2-2/Diapositiva6.jpeg" alt="" />
+  </a>
+  <a href="slides/unit2-2/Diapositiva7.jpeg" class="glightbox hidden">
+    <img src="slides/unit2-2/Diapositiva7.jpeg" alt="" />
+  </a>
+  <a href="slides/unit2-2/Diapositiva8.jpeg" class="glightbox hidden">
+    <img src="slides/unit2-2/Diapositiva8.jpeg" alt="" />
+  </a>
+  <a href="slides/unit2-2/Diapositiva9.jpeg" class="glightbox hidden">
+    <img src="slides/unit2-2/Diapositiva9.jpeg" alt="" />
+  </a>
+</div>
+
+<br/>
+
 ### Example of the Digital Divide
 
 Imagine a classroom. Half of the students have laptops and can use the internet to do homework, research, and talk to their teachers. The other half do not have computers at home. They can only use the school computers for a short time. This creates a difference in how these students can learn. This difference is the digital divide.
