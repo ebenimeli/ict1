@@ -1,4 +1,4 @@
-# Unit 2: Digital World: Access, Safety, and Responsibility
+# Unit 2: Digital World: Computer Networks, Access and Safety
 
 <img class="header" src="../images/ud2_ict1.jpeg"/>
 
