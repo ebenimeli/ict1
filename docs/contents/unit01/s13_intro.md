@@ -1,8 +1,8 @@
-## Common Operating Systems and Applications
+# Common Operating Systems and Applications
+
+<img class="header" src="images/software.png"/>
 
 In this section, we are going to learn about *operating systems* and *applications*. Both of these are types of software that help computers, smartphones, and tablets work properly. Understanding these basic ideas will help you use digital devices better and know how they function.
-
-### Introduction to Operating Systems and Applications  
 
 Computers, smartphones, and tablets need software to run. There are two main types of software:
 
