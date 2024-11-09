@@ -217,3 +217,8 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
   - footnotes
+
+
+extra_javascript:
+  - javascript/extra.js
+    
