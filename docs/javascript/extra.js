@@ -8,4 +8,4 @@ document.body.insertBefore(newDiv, document.body.firstChild);
 
 setTimeout(() => {
     newDiv.remove();
-}, 10000);
+}, 30000);
