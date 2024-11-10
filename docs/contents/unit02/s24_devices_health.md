@@ -28,6 +28,8 @@ Using digital devices affects our bodies. Here are some common effects:
 Digital devices cause eye strain, sleep issues, poor posture, and less physical activity. Take breaks, limit screen use, and stay active.
 </div>
 
+---
+
 ## Risks and Tips
 
 <img src="images/eyestrain.jpeg" >
@@ -68,6 +70,8 @@ While working at the computer, back pain is one of the most common workplace pro
 To <b>prevent back pain</b> while working, practice dynamic sitting, adjust backrests and lumbar support, and use armrests for comfort.
 </div>
 
+---
+
 ## Ergonomics
 
 <img src="images/ergonomics.jpeg" >
@@ -85,14 +89,6 @@ The scientific study of equipment design, as in office furniture or transportati
 For instance, in office settings, ergonomic principles guide the design of chairs, desks, and computer setups to reduce strain on the neck, back, and wrists, thereby preventing repetitive stress injuries and promoting good posture. Similarly, in transportation, ergonomic seating aims to provide both comfort and safety, reducing fatigue during long journeys.
 
 By considering factors like body posture, movement, and the reduction of physical strain, ergonomics not only improves productivity but also enhances overall well-being.
-
-**Work safely in your office**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cYVBVx-dX6k?si=DNxUZGLNt7unP8l9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-This field draws on knowledge from disciplines such as biomechanics, psychology, and engineering to create user-friendly solutions that cater to the needs of diverse populations, ultimately contributing to healthier and more sustainable work and living environments.
-
----
 
 ### Activity
 
@@ -117,6 +113,14 @@ This field draws on knowledge from disciplines such as biomechanics, psychology,
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T8qGO7XQ0Uw?si=vjJ6BhdTDTAEYon3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br/>
+
+**Work safely in your office**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cYVBVx-dX6k?si=DNxUZGLNt7unP8l9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+This field draws on knowledge from disciplines such as biomechanics, psychology, and engineering to create user-friendly solutions that cater to the needs of diverse populations, ultimately contributing to healthier and more sustainable work and living environments.
+
+---
 
 ## Glossary
 
