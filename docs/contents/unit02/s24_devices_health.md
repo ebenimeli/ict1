@@ -86,13 +86,19 @@ For instance, in office settings, ergonomic principles guide the design of chair
 
 By considering factors like body posture, movement, and the reduction of physical strain, ergonomics not only improves productivity but also enhances overall well-being.
 
+**Work safely in your office**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cYVBVx-dX6k?si=DNxUZGLNt7unP8l9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 This field draws on knowledge from disciplines such as biomechanics, psychology, and engineering to create user-friendly solutions that cater to the needs of diverse populations, ultimately contributing to healthier and more sustainable work and living environments.
+
+---
 
 ### Activity
 
 <img src="images/ergonomics_activity.png" >
 
-### Ergonomics: Laptop and Smartphones
+### Ergonomics: Office, Laptop and Smartphones
 
 **Laptop Ergonomics - Basic Tips**
 
@@ -100,9 +106,15 @@ This field draws on knowledge from disciplines such as biomechanics, psychology,
 
 <br/>
 
-### Ergonomics: Smartphones & Tablets
+** Ergonomics: Smartphones & Tablets**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_DEmtz7TU6o?si=WI6-vELMYK9TpOk3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+**Computing Health and Safety**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T8qGO7XQ0Uw?si=vjJ6BhdTDTAEYon3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br/>
 
