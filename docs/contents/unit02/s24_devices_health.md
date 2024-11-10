@@ -1,6 +1,6 @@
 # Digital Devices and Health
 
-<img src="images/computers_health.jpeg" class="header" >
+<img src="images/backpain_eyestrain.jpeg" class="header" >
 
 ## Introduction
 
@@ -11,6 +11,8 @@ Headaches are common due to close screen proximity and can be alleviated by stre
 **Ergonomics** plays a crucial role in optimizing equipment design to enhance comfort and efficiency, reducing strain and promoting overall health in work and living spaces.
 
 ### How digital devices affect our bodies
+
+<img src="images/backpain_sit.jpg" >
 
 Using digital devices affects our bodies. Here are some common effects:
 
@@ -155,4 +157,4 @@ This field draws on knowledge from disciplines such as biomechanics, psychology,
 | Television           | *Televisión*               | **Television** is similar to using digital devices.      |
 | User-friendly        | *Fácil de usar*            | Ergonomics ensures **user-friendly** setups.             |
 | Workspace            | *Espacio de trabajo*       | Ergonomic **workspace** designs improve comfort.         |
-| Wrists               | *Muñecas*                  | **Wrist** pain can be caused by poor posture.            |
+| Wrist                | *Muñeca*                   | **Wrist** pain can be caused by poor posture.            |
