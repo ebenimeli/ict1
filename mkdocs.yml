@@ -40,21 +40,21 @@ nav:
 # *************************************************************************
 - 'Unit 2. Networks, Access and Safety':
   - 'Digital World: Networks, Access, Safety, and Responsibility': 'contents/unit02/unit2.md'
-  - '1. Device networks. Fundamentals and ways to access the Internet': # SB1.4
+  - '1. Implications of the use of digital devices': # SB1.7
+    - 'Effects of using Digital Devices': 'contents/unit02/s24.md'
+    - 'Digital Devices and Health': 'contents/unit02/s24_devices_health.md'
+    - 'Sustainability and Environment': 'contents/unit02/s24_environment.md'
+    - 'Obsolescence': 'contents/unit02/s24_obsolescence.md'
+  - '2. The digital divide': # SB1.5
+    - 'What is Digital Divide?': 'contents/unit02/s22_digitaldivide.md'
+  - '3. Device networks. Fundamentals and ways to access the Internet': # SB1.4
      - 'Computer Networks': 'contents/unit02/s21_intro.md'
      - 'Communication Media': 'contents/unit02/s21_comm_media.md'
      - 'Client-Server Model': 'contents/unit02/s21_client_server.md'
      - 'The World Wide Web' : 'contents/unit02/s21_www.md'
      - 'WWW · Video' : 'contents/unit02/s21_www_video.md'
-  - '2. The digital divide': # SB1.5
-    - 'What is Digital Divide?': 'contents/unit02/s22_digitaldivide.md'
-  - '3. Basic security habits to protect devices': # SB1.6
+  - '4. Basic security habits to protect devices': # SB1.6
     - 'Security Habits': 'contents/unit02/s23_basic_security.md'
-  - '4. Implications of the use of digital devices': # SB1.7
-    - 'Effects of using Digital Devices': 'contents/unit02/s24.md'
-    - 'Digital Devices and Health': 'contents/unit02/s24_devices_health.md'
-    - 'Sustainability and Environment': 'contents/unit02/s24_environment.md'
-    - 'Obsolescence': 'contents/unit02/s24_obsolescence.md'
 #  - 'Activities & Projects':
 #    - 'A01. Title': 'contents/unit02/activity-A01.md'
 #    - 'A02. Title': 'contents/unit02/activity-A02.md'
