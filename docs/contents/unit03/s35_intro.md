@@ -1,5 +1,7 @@
 # 5. Detecting Fake News, Hoaxes, and Hate Speech: Social Implications
 
+<img src="images/fake_news.png" class="header">
+
 In today’s world, the internet is filled with information. While this can be very useful, it also means there is a lot of false, harmful, or misleading content online. Fake news, hoaxes, and hate speech are some of the most serious issues that we face. These types of content can spread quickly and cause harm to individuals and communities. It is important to learn how to spot them, how they affect society, and how we can protect ourselves and others from their negative consequences.
 
 ## What is Fake News?

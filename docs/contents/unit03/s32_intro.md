@@ -1,4 +1,6 @@
-# Selecting and Verifying Information in Digital Media
+# 2. Selecting and Verifying Information in Digital Media
+
+<img src="images/verification.jpg" class="header">
 
 ## Introduction
 

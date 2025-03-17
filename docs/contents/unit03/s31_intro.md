@@ -1,5 +1,7 @@
 
-# Types of Web Search Engines and Their Filtering Tools
+# 1. Types of Web Search Engines and Their Filtering Tools
+
+<img src="images/search_engine.png" class="header">
 
 In today’s digital world, search engines are essential tools for finding information online. Whether you're looking for websites, articles, images, or videos, search engines are the quickest way to locate relevant content. Understanding how search engines work and how to use them effectively is crucial for efficiently searching and selecting reliable information.
 

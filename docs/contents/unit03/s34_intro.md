@@ -1,5 +1,7 @@
 # 4. Intellectual Property and Copyright
 
+<img src="images/contract.png" class="header">
+
 When using information from digital media, it’s important to respect intellectual property rights. Intellectual property refers to creations of the mind such as inventions, artistic works, and written content. These creations belong to their authors, just like your homework belongs to you after you complete it. Copyright is the law that protects these creations from being copied, shared, or used without permission.
 
 ## What is Copyright?

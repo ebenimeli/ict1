@@ -1,5 +1,7 @@
 # 3. Reading and Interpreting Information from Digital Media
 
+<img src="images/reading.png" class="header">
+
 Once you have found accurate and relevant information, the next step is to read and interpret it correctly. This means understanding what the information is saying, identifying key points, and making sure you fully grasp its meaning in the context of your topic. It also involves thinking critically about the content and deciding whether it is useful and reliable.
 
 ## Understanding the Context
