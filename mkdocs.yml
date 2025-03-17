@@ -55,6 +55,8 @@ nav:
      - 'WWW · Video' : 'contents/unit02/s21_www_video.md'
   - '4. Basic security habits to protect devices': # SB1.6
     - 'Security Habits': 'contents/unit02/s23_basic_security.md'
+  - 'Activities & Projects':
+    - 'Online Safety and Privacy': 'contents/unit02/tips.md'
 #  - 'Activities & Projects':
 #    - 'A01. Title': 'contents/unit02/activity-A01.md'
 #    - 'A02. Title': 'contents/unit02/activity-A02.md'
@@ -80,8 +82,7 @@ nav:
     - 'Fake News and Hoaxes': 'contents/unit03/s35_fakenews.md'
     - 'Hate Speech': 'contents/unit03/s35_hatespeech.md'
     - 'Social Implications': 'contents/unit03/s35_implications.md'
-  - 'Activities & Projects':
-    - 'Online Safety and Privacy': 'contents/unit03/tips.md'
+
 #    - 'A02. Title': 'contents/unit03/activity-A02.md'
 #    - 'A03. Title': 'contents/unit03/activity-A03.md'
 #    - 'Glossary': 'contents/unit03/glossary-ud03.md'
