@@ -93,3 +93,105 @@ The **digital** world offers countless **opportunities** to do amazing things. Y
 So set a good **example**—and be **positive**.  
 
 ---
+
+## Glossary
+
+| English                       | Español                     | Example usage in context                               |
+|-------------------------------|-----------------------------|--------------------------------------------------------|
+| access                        | acceso                      | Make sure only you have **access** to your account.    |
+| account recovery              | recuperación de cuenta      | Use the **account recovery** option if you forget your password. |
+| action                        | acción                      | Take **action** immediately if you detect suspicious activity. |
+| adult                         | adulto                      | Ask a trusted **adult** if you're unsure about something.  |
+| alert                         | alerta                      | The security **alert** will notify you about unauthorized login attempts. |
+| analysis                      | análisis                    | Perform a security **analysis** to protect your account.   |
+| answer                        | respuesta                   | Don't **answer** emails from unknown sources.              |
+| ask                           | preguntar                   | If you're unsure about privacy, **ask** an expert.         |
+| awareness                     | conciencia                  | **Awareness** about privacy is key when using social media. |
+| avoid                         | evitar                      | **Avoid** sharing personal information on insecure sites.  |
+| background                    | contexto                    | The **context** in which you share information can affect your privacy. |
+| backup                        | copia de seguridad          | Create a **backup** of your important files.               |
+| breach                        | brecha                      | The data **breach** exposed users' personal information.   |
+| build                         | crear                       | **Build** strong passwords to protect your account.        |
+| candy                         | dulce                       | Don’t accept "**candy**" from strangers online, it could be a trick. |
+| change                        | cambiar                     | **Change** your password regularly for better security.    |
+| click                         | hacer clic                  | Don’t **click** on suspicious links in emails.             |
+| comment                       | comentario                  | Leave a respectful **comment** and avoid sharing personal data. |
+| consequences                  | consecuencias               | The **consequences** of a privacy breach can be serious.   |
+| connection                    | conexión                    | Make sure your internet **connection** is encrypted.       |
+| consent                       | consentimiento              | Ensure you get **consent** before sharing someone else’s information. |
+| control                       | control                     | You have **control** over who sees your information on social media. |
+| create                        | crear                       | **Create** a profile with minimal personal information to protect your privacy. |
+| data                          | datos                       | Protect your personal **data** from hackers.               |
+| data breach                   | filtración de datos         | A **data breach** can expose your personal information.    |
+| deactivate                    | desactivar                  | **Deactivate** your account if you no longer wish to use it. |
+| detail                        | detalle                     | Don’t include personal **details** in public posts.        |
+| details                       | detalles                    | Make sure your account **details** are kept private.       |
+| device                        | dispositivo                 | Keep your **device** secured with a password.              |
+| digital                       | digital                     | The **digital** world has both risks and benefits.          |
+| encryption                    | cifrado                     | **Encryption** ensures that no one can read your messages without permission. |
+| encryption key                | clave de cifrado            | Keep your **encryption key** safe.                         |
+| example                       | ejemplo                     | A good **example** of security is using different passwords for each account. |
+| explore                       | explorar                    | **Explore** secure websites to gather information.         |
+| firewall                      | cortafuegos                 | The **firewall** protects your network from unauthorized access. |
+| forward                       | reenviar                    | Don’t **forward** emails from unknown sources.             |
+| friend                        | amigo                       | Make sure your online **friends** are trustworthy.         |
+| fun                           | diversión                   | Have **fun** online, but always keep security in mind.     |
+| good                          | bueno                       | It’s **good** to regularly update your privacy settings.   |
+| harm                          | daño                        | A cyber attack can cause **harm** to your data and devices. |
+| hacker                        | hacker                      | **Hackers** try to steal your personal information.        |
+| identity                      | identidad                   | Protect your **identity** from being stolen.               |
+| impact                        | impacto                     | A security breach can have a serious **impact** on your data. |
+| information                   | información                 | Share personal **information** only with trusted people.   |
+| internet                      | internet                    | Browse the **internet** safely using secured networks.     |
+| key                           | clave                       | Your account **key** should be unique and hard to guess.   |
+| leader                        | líder                       | A **leader** in cybersecurity knows how to protect systems. |
+| log out                       | cerrar sesión               | Always **log out** when using a public computer.           |
+| locker                        | taquilla                    | Store your passwords securely in a safe place.         |
+| lose                          | perder                      | If you **lose** your phone, immediately lock all your accounts. |
+| manage                        | gestionar                   | **Manage** your privacy settings for better security.      |
+| malware                       | malware                     | **Malware** can steal your information without you noticing. |
+| mix                           | mezclar                     | Don’t **mix** simple passwords with more complex ones.     |
+| negative                      | negativo                    | **Negative** content online can damage your reputation.    |
+| opportunity                   | oportunidad                 | Don’t miss the **opportunity** to improve your account security. |
+| password                      | contraseña                  | Make sure your **password** is at least eight characters long. |
+| password manager              | gestor de contraseñas       | Use a **password manager** to keep your passwords secure.  |
+| personal                      | personal                    | Don’t share **personal** information with strangers.       |
+| phishing                      | suplantación de identidad   | **Phishing** is when attackers impersonate a trusted source to steal your data. |
+| post                          | publicación                 | Think carefully before **posting** something online.       |
+| private                       | privado                     | Keep your **information** **private** to avoid exposure.       |
+| privacy                       | privacidad                  | **Privacy** is essential for protecting your personal data. |
+| protect                       | proteger                    | **Protect** your devices with strong passwords.            |
+| public                        | público                     | Make sure your profile is only visible to friends, not the **public**. |
+| public key                    | clave pública               | The **public key** is used to encrypt your messages.       |
+| question                      | pregunta                    | Always **ask** questions about how your data is being handled. |
+| profile                       | perfil                      | Customize your **profile** to control what information is shared. |
+| protection                    | protección                  | **Protection** of your account is key to preventing data theft. |
+| reputation                    | reputación                  | Keep a good **reputation** online to avoid misunderstandings. |
+| report                        | informar                    | **Report** any suspicious activity to the administrators. |
+| risk                          | riesgo                      | Weak passwords increase the **risk** of a cyber attack.    |
+| risk assessment               | evaluación de riesgos       | Conduct a **risk assessment** to prevent security issues. |
+| safety                        | seguridad                   | Online **safety** starts with good practices.              |
+| scam                          | estafa                      | Don’t fall for **scams** promising unexpected prizes.      |
+| security                      | seguridad                   | Account **security** should be your top priority.          |
+| secure                        | seguro                      | Make sure your connection is **secure** before sending sensitive information. |
+| secure connection             | conexión segura             | Always use a **secure connection** when accessing sensitive information. |
+| settings                      | configuraciones             | Review your privacy **settings** to protect your account. |
+| share                         | compartir                   | **Share** only necessary information to protect your privacy. |
+| setting                       | configuración               | **Change** your privacy **settings** if you don’t want everyone to see your profile. |
+| stranger                      | extraño                     | Don’t talk to **strangers** online or share your data.     |
+| strong                        | fuerte                      | A **strong** password is crucial for protecting your account. |
+| suspicious                    | sospechoso                  | Be **suspicious** of emails asking for your personal information. |
+| system                        | sistema                     | The security **system** protects your accounts from unauthorized access. |
+| team                          | equipo                      | Work together as a **team** to improve network security.   |
+| threat                        | amenaza                     | The **threat** of a cyber attack is increasing every day.  |
+| trust                         | confianza                   | **Trust** is important online, but always verify the sources. |
+| trustworthy                   | confiable                   | Ensure the people you interact with online are **trustworthy**. |
+| two-factor authentication     | autenticación en dos pasos  | Enable **two-factor authentication** for an extra layer of security. |
+| update                        | actualizar                  | Keep your applications **updated** to avoid vulnerabilities. |
+| use                           | usar                        | **Use** strong, unique passwords for each website.        |
+| web                           | web                         | The **web** is full of risks, but also offers many opportunities. |
+| world                         | mundo                       | The **digital world** offers both opportunities and risks. |
+| world wide web                | red mundial de internet     | The **world wide web** connects people from all over the world. |
+| lockdown                      | bloqueo                     | Account **lockdown** prevents unauthorized access to your data. |
+| notification                  | notificación                | You’ll receive a **notification** if someone tries to access your account. |
+| track                         | rastrear                    | Websites can **track** your online activity.              |
