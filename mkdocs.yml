@@ -77,7 +77,7 @@ nav:
   - '4. Intellectual property and copyright': # SB2.4
     - 'Intellectual Property and Copyright': 'contents/unit03/s34_intro.md'
   - '5. Detecting fake news, hoaxes, and hate speech. Social implications': # SB2.5
-    - 'Introduction': 'contents/unit03/s35_intro.md'
+    - 'Fake News, Hoaxes, and Hate Speech': 'contents/unit03/s35_intro.md'
   - 'Activities & Projects':
     - 'Online Safety and Privacy': 'contents/unit03/tips.md'
 #    - 'A02. Title': 'contents/unit03/activity-A02.md'
