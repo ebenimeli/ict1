@@ -66,18 +66,18 @@ nav:
 # ELIMINAR LA DOBLE COMILLA SIMPLE PARA HABILITAR 2. 3. 4. ETC.
 - 'Unit 3. Searching Information':
   - 'Searching and Selecting Information': 'contents/unit03/unit3.md'
-#  - '1. Types of web search engines and their filtering tools' : # SB 2.1
-#    - 'Introduction': 'contents/digitalcontents/s21_intro.md'
-#    - 'Search Engines': 'contents/digitalcontents/s21_searchengines.md'
-#    - 'Filtering tolls': 'contents/digitalcontents/s21_filteringtools.md'
-#  - '2. Selecting information in digital media through web search engines, verifying its accuracy' : # SB 2.2
-#    - 'Introduction': 'contents/digitalcontents/s22_intro.md'            
-#  - '3. Reading and interpreting information from digital media': # SB2.3
-#    - 'Introduction': 'contents/digitalcontents/s23_intro.md'
-#  - '4. Intellectual property and copyright': # SB2.4
-#    - 'Introduction': 'contents/digitalcontents/s24_intro.md'
-#  - '5. Detecting fake news, hoaxes, and hate speech. Social implications': # SB2.5
-#    - 'Introduction': 'contents/digitalcontents/s25_intro.md'
+  - '1. Types of web search engines and their filtering tools' : # SB 2.1
+    - 'Introduction': 'contents/unit03/s31_intro.md'
+    - 'Search Engines': 'contents/unit03/s31_searchengines.md'
+    - 'Filtering tools': 'contents/unit03/s31_filteringtools.md'
+  - '2. Selecting information in digital media through web search engines, verifying its accuracy' : # SB 2.2
+    - 'Selecting and Verifying Information': 'contents/unit03/s32_intro.md'            
+  - '3. Reading and interpreting information from digital media': # SB2.3
+    - 'Introduction': 'contents/digitalcontents/s23_intro.md'
+  - '4. Intellectual property and copyright': # SB2.4
+    - 'Introduction': 'contents/digitalcontents/s24_intro.md'
+  - '5. Detecting fake news, hoaxes, and hate speech. Social implications': # SB2.5
+    - 'Introduction': 'contents/digitalcontents/s25_intro.md'
   - 'Activities & Projects':
     - 'Online Safety and Privacy': 'contents/unit03/tips.md'
 #    - 'A02. Title': 'contents/unit03/activity-A02.md'
