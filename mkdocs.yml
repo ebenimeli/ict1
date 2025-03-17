@@ -73,11 +73,11 @@ nav:
   - '2. Selecting information in digital media through web search engines, verifying its accuracy' : # SB 2.2
     - 'Selecting and Verifying Information': 'contents/unit03/s32_intro.md'            
   - '3. Reading and interpreting information from digital media': # SB2.3
-    - 'Introduction': 'contents/digitalcontents/s23_intro.md'
+    - 'Reading and Interpreting Information': 'contents/unit03/s33_intro.md'
   - '4. Intellectual property and copyright': # SB2.4
-    - 'Introduction': 'contents/digitalcontents/s24_intro.md'
+    - 'Introduction': 'contents/unit03/s34_intro.md'
   - '5. Detecting fake news, hoaxes, and hate speech. Social implications': # SB2.5
-    - 'Introduction': 'contents/digitalcontents/s25_intro.md'
+    - 'Introduction': 'contents/unit03/s35_intro.md'
   - 'Activities & Projects':
     - 'Online Safety and Privacy': 'contents/unit03/tips.md'
 #    - 'A02. Title': 'contents/unit03/activity-A02.md'
