@@ -1,5 +1,9 @@
 # Social Implications of Fake News and Hate Speech
 
+<img src="images/fakenews_society.jpg" class="header">
+
+## Misinformation, Division, and Influence
+
 Both fake news and hate speech can have serious consequences for society. These types of harmful content can spread quickly, especially on social media, where people often share information without checking its truthfulness. The social implications are far-reaching and can lead to:
 
 - **Misinformation and Public Confusion**  
@@ -13,6 +17,12 @@ Both fake news and hate speech can have serious consequences for society. These 
 
 ## Being a Responsible Consumer of Information
 
-To prevent the harmful effects of fake news and hate speech, it’s important to become a responsible consumer of information. This means checking sources, verifying facts, and thinking critically about the information you read online. Additionally, we should be mindful of what we share with others. Before passing on any information, ask yourself if it is reliable, if it respects others, and if it could cause harm to individuals or communities.
+To prevent the harmful effects of fake news and hate speech, it’s important to become a responsible consumer of information.
+
+<div class="note">
+Being a <b>responsible consumer of information</b> means checking sources, verifying facts, and thinking critically about the information you read online.
+</div>
+
+Additionally, we should be mindful of what we share with others. Before passing on any information, ask yourself if it is reliable, if it respects others, and if it could cause harm to individuals or communities.
 
 By learning to spot fake news, hoaxes, and hate speech, we can help create a more informed, respectful, and peaceful online world.

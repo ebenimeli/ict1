@@ -1,5 +1,7 @@
 # Fake News and Hoaxes
 
+<img src="images/fakenews_spread.jpg" class="header">
+
 ## What is Fake News?
 
 Fake news refers to false or misleading information presented as if it were true news. This information can be created for various reasons. Sometimes, people make fake news to trick others, while other times it is used to promote a particular belief or agenda. Fake news often sounds dramatic, surprising, or sensational—designed to grab attention. Because it appeals to emotions and curiosity, people may share it quickly without checking if it is true.

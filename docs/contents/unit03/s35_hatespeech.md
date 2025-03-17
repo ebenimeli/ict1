@@ -1,5 +1,7 @@
 # Hate Speech
 
+<img src="images/nohate.jpg" class="header">
+
 ## What is Hate Speech?
 
 Hate speech refers to any kind of speech or communication that attacks, discriminates, or incites violence against individuals or groups based on their race, religion, ethnicity, gender, sexual orientation, or other personal characteristics. Hate speech is harmful and can cause a lot of damage to people and communities. It can create division, spread fear, and lead to violence.
