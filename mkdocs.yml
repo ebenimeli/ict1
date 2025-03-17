@@ -78,8 +78,8 @@ nav:
 #    - 'Introduction': 'contents/digitalcontents/s24_intro.md'
 #  - '5. Detecting fake news, hoaxes, and hate speech. Social implications': # SB2.5
 #    - 'Introduction': 'contents/digitalcontents/s25_intro.md'
-#  - 'Activities & Projects':
-#    - 'A01. Title': 'contents/unit03/activity-A01.md'
+  - 'Activities & Projects':
+    - 'Online Safety and Privacy': 'contents/unit03/tips.md'
 #    - 'A02. Title': 'contents/unit03/activity-A02.md'
 #    - 'A03. Title': 'contents/unit03/activity-A03.md'
 #    - 'Glossary': 'contents/unit03/glossary-ud03.md'
