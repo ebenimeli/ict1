@@ -1,5 +1,9 @@
 # Search Engines: Filtering Tools
 
+[⬇ PDF notes](s31_filteringtools.pdf)
+
+<img src="images/search_engine_computer.jpg" class="header">
+
 ## Filtering Tools in Search Engines
 
 Search engines can return a massive number of results, which can be overwhelming. To help users find the information they need, search engines provide filtering tools that allow you to narrow down your search and find exactly what you're looking for. These tools help refine search results, making it easier to focus on relevant and accurate content.

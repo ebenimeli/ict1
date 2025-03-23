@@ -1,5 +1,7 @@
 # Search Engines: Types of Web Search Engines
 
+[⬇ PDF notes](s31_searchengines_ex.pdf)
+
 <img src="images/exercises.png" class="header">
 
 **Name**: 

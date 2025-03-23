@@ -1,5 +1,9 @@
 # Search Engines: Types of Web Search Engines
 
+[⬇ PDF notes](s31_searchengines.pdf)
+
+<img src="images/search_engine_seo.jpg" class="header">
+
 ## What Are Search Engines?
 
 A search engine is a tool that helps you search for information on the internet by typing in specific words or phrases known as a "query." The search engine then scans billions of websites and returns a list of results that are most relevant to your search. Popular search engines include Google, Bing, and Yahoo. These search engines organize vast amounts of online content and help you find what you're looking for with just a few clicks.
