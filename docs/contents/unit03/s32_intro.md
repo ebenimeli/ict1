@@ -113,6 +113,12 @@ Untrustworthy websites often look unprofessional. Be cautious if a website:
 - Uses a strange web address (e.g., **“real-news-truefacts.com”** instead of a well-known news site like **bbc.com**).
 - Contains many spelling and grammar mistakes.
 
+### How to Fact-Check Online Sources
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kim9ujIU874?si=Cz0MP6Yon-X7bPsZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
 ## How Search Engines Help Verify Information
 
 Search engines like Google and Bing help find information, but they do not decide what is true. They organize results based on popularity and keywords. To get better search results:
