@@ -1,4 +1,4 @@
-# Online Security and Privacy
+# Digital Identity, Privacy, and Online Safety
 
 <img src="images/binary_security.jpg" class="header">
 
