@@ -6,6 +6,54 @@
 
 The internet is full of information, but not all of it is true. Some websites share incorrect or misleading information. This is why it is important to check if what you find online is accurate. Learning how to verify information helps you make good decisions and avoid spreading false content.
 
+<div class="glightbox">
+  <a href="slides/unit3-2/Diapositiva1.jpeg" class="glightbox">
+    <img src="slides/unit3-2/Diapositiva1.jpeg" alt="" />
+  </a>
+    <a href="slides/unit3-2/Diapositiva2.jpeg" class="glightbox hidden">
+    <img src="slides/unit3-2/Diapositiva2.jpeg" alt="" />
+  </a>
+  </a>
+  <a href="slides/unit3-2/Diapositiva3.jpeg" class="glightbox hidden">
+    <img src="slides/unit3-2/Diapositiva3.jpeg" alt="" />
+  </a>
+  <a href="slides/unit3-2/Diapositiva4.jpeg" class="glightbox hidden">
+    <img src="slides/unit3-2/Diapositiva4.jpeg" alt="" />
+  </a>
+  <a href="slides/unit3-2/Diapositiva5.jpeg" class="glightbox hidden">
+    <img src="slides/unit3-2/Diapositiva5.jpeg" alt="" />
+  </a>
+  <a href="slides/unit3-2/Diapositiva6.jpeg" class="glightbox hidden">
+    <img src="slides/unit3-2/Diapositiva6.jpeg" alt="" />
+  </a>
+  <a href="slides/unit3-2/Diapositiva7.jpeg" class="glightbox hidden">
+    <img src="slides/unit3-2/Diapositiva7.jpeg" alt="" />
+  </a>
+  <a href="slides/unit3-2/Diapositiva8.jpeg" class="glightbox hidden">
+    <img src="slides/unit3-2/Diapositiva8.jpeg" alt="" />
+  </a>
+  <a href="slides/unit3-2/Diapositiva9.jpeg" class="glightbox hidden">
+    <img src="slides/unit3-2/Diapositiva9.jpeg" alt="" />
+  </a>
+  <a href="slides/unit3-2/Diapositiva10.jpeg" class="glightbox hidden">
+    <img src="slides/unit3-2/Diapositiva10.jpeg" alt="" />
+  </a>
+    <a href="slides/unit3-2/Diapositiva11.jpeg" class="glightbox hidden">
+    <img src="slides/unit3-2/Diapositiva11.jpeg" alt="" />
+  </a>
+    <a href="slides/unit3-2/Diapositiva12.jpeg" class="glightbox hidden">
+    <img src="slides/unit3-2/Diapositiva12.jpeg" alt="" />
+  </a>
+    <a href="slides/unit3-2/Diapositiva13.jpeg" class="glightbox hidden">
+    <img src="slides/unit3-2/Diapositiva13.jpeg" alt="" />
+  </a>
+    <a href="slides/unit3-2/Diapositiva14.jpeg" class="glightbox hidden">
+    <img src="slides/unit3-2/Diapositiva14.jpeg" alt="" />
+  </a>
+</div>
+
+<br/>
+
 ## Why Is Verifying Information Important?
 
 If you use incorrect information, you might make bad decisions or believe things that are not true. This can be a problem, especially when working on school projects or discussing important topics. Fake news and misinformation spread quickly, so knowing how to check facts is an important skill.
