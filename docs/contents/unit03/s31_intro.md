@@ -1,6 +1,8 @@
 
 # 1. Types of Web Search Engines and Their Filtering Tools
 
+[⬇ PDF notes](s31_intro.pdf)
+
 <img src="images/search_engine.png" class="header">
 
 ## Summary
@@ -9,7 +11,7 @@ In today’s digital world, search engines are essential tools for finding infor
 
 A search engine is a tool that helps you search for information on the internet by typing in specific words or phrases known as a "query." The search engine then scans billions of websites and returns a list of results that are most relevant to your search. Popular search engines include Google, Bing, and Yahoo. These search engines organize vast amounts of online content and help you find what you're looking for with just a few clicks.
 
-Learn about the major components of a Google search engine results page.
+[In this video](https://youtu.be/86YTKhQDIn0), learn about the major components of a Google search engine results page.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/86YTKhQDIn0?si=JNAxjwcUGR3uMkhv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
