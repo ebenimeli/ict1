@@ -24,11 +24,9 @@ Search engines use complex algorithms—sets of instructions and calculations—
 
 Understanding how search engines work is important because it shows that not all search results are equal. While the search engine ranks results, it doesn’t always guarantee that the first results are the most accurate or trustworthy. Therefore, it's essential to critically evaluate the content you find.
 
-## How Search Engines Work
+In this video, explore how search engines work by diving into the three fundamental tasks: crawling, indexing, and ranking.
 
-Learn about the major components of a Google search engine results page.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/86YTKhQDIn0?si=JNAxjwcUGR3uMkhv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8AwAbGrTvSE?si=xciglVkXH7pHfXX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br/>
 
