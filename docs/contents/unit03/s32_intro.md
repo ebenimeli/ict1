@@ -66,9 +66,9 @@ There are simple steps you can follow to check if online information is trustwor
 
 Some websites are more reliable than others. Trusted websites often belong to schools, governments, or well-known organizations. Look for:
 
-- **“.edu”** – Educational websites (e.g., universities and schools).
-- **“.gov”** – Government websites with official information.
-- **“.org”** – Non-profit organizations that often provide factual content.
+- Educational websites (e.g., universities and schools).
+- Government websites with official information.
+- Non-profit organizations that often provide factual content.
 
 Be careful with blogs, social media, and commercial sites (**“.com”**) because they might share opinions or false information.
 
