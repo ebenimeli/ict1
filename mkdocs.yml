@@ -71,6 +71,7 @@ nav:
     - 'Introduction': 'contents/unit03/s31_intro.md'
     - 'Search Engines': 'contents/unit03/s31_searchengines.md'
     - 'Filtering tools': 'contents/unit03/s31_filteringtools.md'
+    - 'Exercises A': 'contents/unit03/s31_searchengines_ex.md'
   - '2. Selecting information in digital media through web search engines, verifying its accuracy' : # SB 2.2
     - 'Selecting and Verifying Information': 'contents/unit03/s32_intro.md'            
   - '3. Reading and interpreting information from digital media': # SB2.3

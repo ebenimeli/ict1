@@ -19,3 +19,4 @@ Search engines use complex algorithms—sets of instructions and calculations—
 4. **Displaying Results:** After ranking the results, the search engine displays a list of web pages that are most relevant to your query. These results may also include images, videos, and other media depending on the search type.
 
 Understanding how search engines work is important because it shows that not all search results are equal. While the search engine ranks results, it doesn’t always guarantee that the first results are the most accurate or trustworthy. Therefore, it's essential to critically evaluate the content you find.
+
