@@ -1,197 +1,197 @@
 site_name: Workshop on Responsible Digital Relationships
 use_directory_urls: false
 nav:
-#- 'Objectives': 'contents/criteria.md'
-# *************************************************************************
-# UNIT 0. Introduction and tools
-# *************************************************************************
-- 'Unit 0. Introduction and Tools':
-  - 'Presentation': 'contents/unit00/presentation.md'
-  - 'Text: Responsible Digital Relationships': 'contents/unit00/wrdr.md'
-  - 'Reading Progress 1': 'contents/unit00/readingprogress01.md'
-# *************************************************************************
-# UNIT 1. Digital Devices, Operating Systems, and Networks
-# *************************************************************************
-- 'Unit 1. Devices, OS and Apps':
-  - 'Digital Devices, Operating Systems, and Apps': 'contents/unit01/unit1.md'
-  - '1. Smart Devices for Home and School': # SB1.1
-    - 'Digital Devices: An Overview': 'contents/unit01/s11_intro.md'
-    - 'Personal computers': 'contents/unit01/s11_personalcomputers.md'
-    - 'Mobile devices': 'contents/unit01/s11_mobiledev.md'
-    - 'Other devices': 'contents/unit01/s11_otherdev.md'
-  - '2. Inside Digital Devices: Key Features and Functions': # SB1.2
-    #  - 'Digital Devices: An Introduction': 'contents/devices/s12_intro.md'
-     - 'Computer Science': 'contents/unit01/s12_computer_science.md'
-     - 'Hardware and Software': 'contents/unit01/s12_hw_sw.md'
-     - 'Computer Components': 'contents/unit01/s12_pc_main_components.md'
-     - 'Storage Devices': 'contents/unit01/s12_storage_devices.md'
-     - 'Peripheral Devices': 'contents/unit01/s12_peripheral.md'
-  - '3. Common operating systems and applications': # SB1.4
-     - 'Introduction': 'contents/unit01/s13_intro.md'
-     - 'Operating Systems': 'contents/unit01/s13_os.md'
-     - 'Applications': 'contents/unit01/s13_apps.md'
+  #- 'Objectives': 'contents/criteria.md'
+  # *************************************************************************
+  # UNIT 0. Introduction and tools
+  # *************************************************************************
+  - "Unit 0. Introduction and Tools":
+      - "Presentation": "contents/unit00/presentation.md"
+      - "Text: Responsible Digital Relationships": "contents/unit00/wrdr.md"
+      - "Reading Progress 1": "contents/unit00/readingprogress01.md"
+  # *************************************************************************
+  # UNIT 1. Digital Devices, Operating Systems, and Networks
+  # *************************************************************************
+  - "Unit 1. Devices, OS and Apps":
+      - "Digital Devices, Operating Systems, and Apps": "contents/unit01/unit1.md"
+  #    - "1. Smart Devices for Home and School": # SB1.1
+  #        - "Digital Devices: An Overview": "contents/unit01/s11_intro.md"
+  #        - "Personal computers": "contents/unit01/s11_personalcomputers.md"
+  #        - "Mobile devices": "contents/unit01/s11_mobiledev.md"
+  #        - "Other devices": "contents/unit01/s11_otherdev.md"
+  #    - "2. Inside Digital Devices: Key Features and Functions": # SB1.2
+  #        #  - 'Digital Devices: An Introduction': 'contents/devices/s12_intro.md'
+  #        - "Computer Science": "contents/unit01/s12_computer_science.md"
+  #        - "Hardware and Software": "contents/unit01/s12_hw_sw.md"
+  #        - "Computer Components": "contents/unit01/s12_pc_main_components.md"
+  #        - "Storage Devices": "contents/unit01/s12_storage_devices.md"
+  #        - "Peripheral Devices": "contents/unit01/s12_peripheral.md"
+  #    - "3. Common operating systems and applications": # SB1.4
+  #        - "Introduction": "contents/unit01/s13_intro.md"
+  #        - "Operating Systems": "contents/unit01/s13_os.md"
+  #        - "Applications": "contents/unit01/s13_apps.md"
   #- 'Activities & Projects': ''
   #    - 'A01. Title': 'contents/unit01/activity-A01.md'
   #    - 'A02. Title': 'contents/unit01/activity-A02.md'
   #    - 'A03. Title': 'contents/unit01/activity-A03.md'
   #  - 'Glossary': 'contents/unit01/glossary-ud01.md'
-# *************************************************************************
-# UNIT 2. Digital World: Access, Safety, and Responsibility
-# *************************************************************************
-- 'Unit 2. Networks, Access and Safety':
-  - 'Digital World: Networks, Access, Safety, and Responsibility': 'contents/unit02/unit2.md'
-  - '1. Implications of the use of digital devices': # SB1.7
-    - 'Effects of using Digital Devices': 'contents/unit02/s24.md'
-    - 'Digital Devices and Health': 'contents/unit02/s24_devices_health.md'
-    - 'Sustainability and Environment': 'contents/unit02/s24_environment.md'
-    - 'Obsolescence': 'contents/unit02/s24_obsolescence.md'
-  - '2. The digital divide': # SB1.5
-    - 'What is Digital Divide?': 'contents/unit02/s22_digitaldivide.md'
-  - '3. Device networks. Fundamentals and ways to access the Internet': # SB1.4
-     - 'Computer Networks': 'contents/unit02/s21_intro.md'
-     - 'Communication Media': 'contents/unit02/s21_comm_media.md'
-     - 'Client-Server Model': 'contents/unit02/s21_client_server.md'
-     - 'The World Wide Web' : 'contents/unit02/s21_www.md'
-     - 'WWW · Video' : 'contents/unit02/s21_www_video.md'
-  - '4. Basic security habits to protect devices': # SB1.6
-    - 'Security Habits': 'contents/unit02/s23_basic_security.md'
-  - 'Activities & Projects':
-    - 'Digital Identity, Privacy, and Online Safety': 'contents/unit02/tips.md'
-#  - 'Activities & Projects':
-#    - 'A01. Title': 'contents/unit02/activity-A01.md'
-#    - 'A02. Title': 'contents/unit02/activity-A02.md'
-#    - 'A03. Title': 'contents/unit02/activity-A03.md'
-#    - 'Glossary': 'contents/unit02/glossary-ud02.md'
-# *************************************************************************
-# UNIT 3. Searching and Selecting Information
-# *************************************************************************
-- 'Unit 3. Searching Information':
-  - 'Searching and Selecting Information': 'contents/unit03/unit3.md'
-  - '1. Types of web search engines and their filtering tools' : # SB 2.1
-    - 'Introduction': 'contents/unit03/s31_intro.md'
-    - 'Search Engines': 'contents/unit03/s31_searchengines.md'
-    - 'Filtering tools': 'contents/unit03/s31_filteringtools.md'
-    - 'Exercises': 'contents/unit03/s31_searchengines_ex.md'
-  - '2. Selecting information in digital media through web search engines, verifying its accuracy' : # SB 2.2
-    - 'Selecting and Verifying Information': 'contents/unit03/s32_intro.md'            
-  - '3. Reading and interpreting information from digital media': # SB2.3
-    - 'Reading and Interpreting Information': 'contents/unit03/s33_intro.md'
-  - '4. Intellectual property and copyright': # SB2.4
-    - 'Intellectual Property and Copyright': 'contents/unit03/s34_intro.md'
-  - '5. Detecting fake news, hoaxes, and hate speech. Social implications': # SB2.5
-    - 'Introduction': 'contents/unit03/s35_intro.md'
-    - 'Fake News and Hoaxes': 'contents/unit03/s35_fakenews.md'
-    - 'Hate Speech': 'contents/unit03/s35_hatespeech.md'
-    - 'Social Implications': 'contents/unit03/s35_implications.md'
+  # *************************************************************************
+  # UNIT 2. Digital World: Access, Safety, and Responsibility
+  # *************************************************************************
+  - "Unit 2. Networks, Access and Safety":
+      - "Digital World: Networks, Access, Safety, and Responsibility": "contents/unit02/unit2.md"
+  #  - '1. Implications of the use of digital devices': # SB1.7
+  #    - 'Effects of using Digital Devices': 'contents/unit02/s24.md'
+  #    - 'Digital Devices and Health': 'contents/unit02/s24_devices_health.md'
+  #    - 'Sustainability and Environment': 'contents/unit02/s24_environment.md'
+  #    - 'Obsolescence': 'contents/unit02/s24_obsolescence.md'
+  #  - '2. The digital divide': # SB1.5
+  #    - 'What is Digital Divide?': 'contents/unit02/s22_digitaldivide.md'
+  #  - '3. Device networks. Fundamentals and ways to access the Internet': # SB1.4
+  #     - 'Computer Networks': 'contents/unit02/s21_intro.md'
+  #     - 'Communication Media': 'contents/unit02/s21_comm_media.md'
+  #     - 'Client-Server Model': 'contents/unit02/s21_client_server.md'
+  #     - 'The World Wide Web' : 'contents/unit02/s21_www.md'
+  #     - 'WWW · Video' : 'contents/unit02/s21_www_video.md'
+  #  - '4. Basic security habits to protect devices': # SB1.6
+  #    - 'Security Habits': 'contents/unit02/s23_basic_security.md'
+  #  - 'Activities & Projects':
+  #    - 'Digital Identity, Privacy, and Online Safety': 'contents/unit02/tips.md'
+  #  - 'Activities & Projects':
+  #    - 'A01. Title': 'contents/unit02/activity-A01.md'
+  #    - 'A02. Title': 'contents/unit02/activity-A02.md'
+  #    - 'A03. Title': 'contents/unit02/activity-A03.md'
+  #    - 'Glossary': 'contents/unit02/glossary-ud02.md'
+  # *************************************************************************
+  # UNIT 3. Searching and Selecting Information
+  # *************************************************************************
+  - "Unit 3. Searching Information":
+      - "Searching and Selecting Information": "contents/unit03/unit3.md"
+  #  - '1. Types of web search engines and their filtering tools' : # SB 2.1
+  #    - 'Introduction': 'contents/unit03/s31_intro.md'
+  #    - 'Search Engines': 'contents/unit03/s31_searchengines.md'
+  #    - 'Filtering tools': 'contents/unit03/s31_filteringtools.md'
+  #    - 'Exercises': 'contents/unit03/s31_searchengines_ex.md'
+  #  - '2. Selecting information in digital media through web search engines, verifying its accuracy' : # SB 2.2
+  #    - 'Selecting and Verifying Information': 'contents/unit03/s32_intro.md'
+  #  - '3. Reading and interpreting information from digital media': # SB2.3
+  #    - 'Reading and Interpreting Information': 'contents/unit03/s33_intro.md'
+  #  - '4. Intellectual property and copyright': # SB2.4
+  #    - 'Intellectual Property and Copyright': 'contents/unit03/s34_intro.md'
+  #  - '5. Detecting fake news, hoaxes, and hate speech. Social implications': # SB2.5
+  #    - 'Introduction': 'contents/unit03/s35_intro.md'
+  #    - 'Fake News and Hoaxes': 'contents/unit03/s35_fakenews.md'
+  #    - 'Hate Speech': 'contents/unit03/s35_hatespeech.md'
+  #    - 'Social Implications': 'contents/unit03/s35_implications.md'
 
-#    - 'A02. Title': 'contents/unit03/activity-A02.md'
-#    - 'A03. Title': 'contents/unit03/activity-A03.md'
-#    - 'Glossary': 'contents/unit03/glossary-ud03.md'
-# *************************************************************************
-# UNIT 4. Organization and Creation of Content
-# *************************************************************************
-- 'Unit 4. Creation of Content':
-  - 'Organization and Creation of Content': 'contents/unit04/unit4.md'
-#  - '1. Organization of information. Basic operations with files and folders': # SB2.6
-#    - 'Introduction': 'contents/digitalcontents/s26_intro.md'
-#  - '2. Customizing the work environment': # SB2.7
-#    - 'Introduction': 'contents/digitalcontents/s27_intro.md'
-#  - '3. Basic content creation with digital tools': # SB2.8
-#    - 'Introduction': 'contents/digitalcontents/s28_intro.md'
-#  - '4. Aesthetics and audiovisual language': # SB2.9
-#    - 'Introduction': 'contents/digitalcontents/s29_intro.md'
-#  - 'Activities & Projects':
-#    - 'A01. Title': 'contents/unit04/activity-A01.md'
-#    - 'A02. Title': 'contents/unit04/activity-A02.md'
-#    - 'A03. Title': 'contents/unit04/activity-A03.md'
-#  - 'Glossary': 'contents/unit04/glossary-ud04.md'
-# *************************************************************************
-# UNIT 5. Digital Identity
-# *************************************************************************
-- '▶ Unit 5. Digital Identity':
-  - 'Digital Identity' : 'contents/unit05/unit5.md'
-  - '1. Personal identity on the Internet. Aliases and avatars': # SB3.1
-    - 'Understanding Digital Identity: What it is and why it is important': 'contents/digitalid/s31_xxx.md'
-  - '2. Self-concept and external perception of digital identity': # SB3.2
-    - 'Creating Online Personas: Choosing Usernames and Avatars': 'contents/digitalid/aliasavatar.md'
-  - '3. Sociocultural references in the construction of digital identity. Influential people': # SB3.3
-    - 'How We See Ourselves and Others See Us Online: Self-image and Perception': 'contents/digitalid/selfconcept.md'
-    - 'People Who Influence Our Digital Identity': 'contents/digitalid/influencers.md'
-  - '4. Personal exposure on the network. Digital footprint': # SB3.4
-    - 'Leaving Our Mark Online: Digital Footprints and Online Reputation': 'contents/digitalid/footprint.md'
-  - '5. Behaviors and habits to take care of digital identity': #SB3.5
-    - 'Being a Responsible Digital Citizen': 'contents/digitalid/behaviours.md'
-  - '6. Privacy on the web. Protection of personal data. Information and consent': #SB3.6
-    - 'Staying Safe Online: Protecting Our Personal Information and Privacy': 'contents/digitalid/privacy.md'
-    - 'Fake News, Hate Speech, and Online Platforms': 'contents/digitalid/fakehateonline.md'
-#    - 'Activities & Projects':
-#      - 'A01. Title': 'contents/unit05/activity-A01.md'
-#      - 'A02. Title': 'contents/unit05/activity-A02.md'
-#     - 'A03. Title': 'contents/unit05/activity-A03.md'
-    - 'Glossary': 'contents/unit05/glossary-ud05.md'
-# *************************************************************************
-# UNIT 6. Relationships in the Digital Environment
-# *************************************************************************
-- 'Unit 6. Digital Relationships':
-  - 'Relationships in the Digital Environment': 'contents/unit06/unit6.md'
-#  - '1. Virtual and physical friendship.': #SB4.1
-#    - 'Introduction': 'contents/relationships/s41_intro.md'
-#  - '2. Digital environments for social exchange and online games.': # SB4.2
-#     - 'Introduction': 'contents/relationships/s42_intro.md'
-#  - '3. Strategies for an equal, safe, and healthy cyber coexistence. Digital etiquette.': #SB4.3
-#    - 'Introduction': 'contents/relationships/s43_intro.md'
-#  - '4. Advantages and benefits of interactions in the digital environment.': # SB4.4
-#    - 'Introduction': 'contents/relationships/s44_intro.md'   
-#  - '5. Risks and threats of using devices and online relationships: cyberbullying and fraud': # SB4.5
-#    - 'IT Threats (I)':
-#      - 'Botnets' : 'contents/relationships/itthreats/botnets.md'
-#      - 'Hacking' : 'contents/relationships/itthreats/hacking.md'
-#      - 'Malware' : 'contents/relationships/itthreats/malware.md'
-#      - 'Pharming' : 'contents/relationships/itthreats/pharming.md'
-#      - 'Phishing' : 'contents/relationships/itthreats/phishing.md'
-#    - 'IT Threats (II)':
-#      - 'Ransomware' : 'contents/relationships/itthreats/ransomware.md'
-#      - 'SPAM' : 'contents/relationships/itthreats/spam.md'
-#      - 'Spoofing' : 'contents/relationships/itthreats/spoofing.md'
-#      - 'Spyware' : 'contents/relationships/itthreats/spyware.md'
-#    - 'IT Threats (III)':
-#      - 'Trojan Horse' : 'contents/relationships/itthreats/trojan.md'
-#      - 'Viruses' : 'contents/relationships/itthreats/virus.md'
-#      - 'WiFi Eavesdropping' : 'contents/relationships/itthreats/wifieavesdropping.md'
-#      - 'Worms' : 'contents/relationships/itthreats/worms.md'
-#      - 'Glossary' : 'contents/relationships/itthreats/glossary.md'
-#    - 'Tips for Online Safety and Privacy':
-#      - 'Tip 1: Think before you share' : 'contents/relationships/tips/thinkbefore.md'
-#      - 'Tip 2: Protect Your Stuff' : 'contents/relationships/tips/protectstuff.md'
-#      - 'Tip 3: Know & Use Your Settings' : 'contents/relationships/tips/knowsettings.md'
-#      - 'Tip 4: Avoid Scams' : 'contents/relationships/tips/avoidscams.md'
-#      - 'Tip 5: Be Positive' : 'contents/relationships/tips/bepositive.md'
-#      - 'Tip 6: Internet Safety and Privacy' : 'contents/relationships/tips/safetyprivacy.md'
-#    - '6. Addictions. Techno addiction, nomophobia, and online gambling addiction.': # SB4.6
-#      - 'Introduction': 'contents/relationships/s46_intro.md'
-#    - 'Activities & Projects':
-#      - 'A01. Title': 'contents/unit06/activity-A01.md'
-#      - 'A02. Title': 'contents/unit06/activity-A02.md'
-#    - 'A03. Title': 'contents/unit06/activity-A03.md'
-#    - 'Glossary': 'contents/unit06/glossary-ud06.md'
-#- 'Programación Didáctica':
-#    - 'Elementos curriculares': 'pd/curriculo/curriculo.md'
-- 'More':
-  - 'Blog': 'https://www.esferatic.com'
-  - 'Instagram': 'https://www.instagram.com/esferatic'
+  #    - 'A02. Title': 'contents/unit03/activity-A02.md'
+  #    - 'A03. Title': 'contents/unit03/activity-A03.md'
+  #    - 'Glossary': 'contents/unit03/glossary-ud03.md'
+  # *************************************************************************
+  # UNIT 4. Organization and Creation of Content
+  # *************************************************************************
+  - "Unit 4. Creation of Content":
+      - "Organization and Creation of Content": "contents/unit04/unit4.md"
+  #  - '1. Organization of information. Basic operations with files and folders': # SB2.6
+  #    - 'Introduction': 'contents/digitalcontents/s26_intro.md'
+  #  - '2. Customizing the work environment': # SB2.7
+  #    - 'Introduction': 'contents/digitalcontents/s27_intro.md'
+  #  - '3. Basic content creation with digital tools': # SB2.8
+  #    - 'Introduction': 'contents/digitalcontents/s28_intro.md'
+  #  - '4. Aesthetics and audiovisual language': # SB2.9
+  #    - 'Introduction': 'contents/digitalcontents/s29_intro.md'
+  #  - 'Activities & Projects':
+  #    - 'A01. Title': 'contents/unit04/activity-A01.md'
+  #    - 'A02. Title': 'contents/unit04/activity-A02.md'
+  #    - 'A03. Title': 'contents/unit04/activity-A03.md'
+  #  - 'Glossary': 'contents/unit04/glossary-ud04.md'
+  # *************************************************************************
+  # UNIT 5. Digital Identity
+  # *************************************************************************
+  - "▶ Unit 5. Digital Identity":
+      - "Digital Identity": "contents/unit05/unit5.md"
+  #  - '1. Personal identity on the Internet. Aliases and avatars': # SB3.1
+  #    - 'Understanding Digital Identity: What it is and why it is important': 'contents/digitalid/s31_xxx.md'
+  #  - '2. Self-concept and external perception of digital identity': # SB3.2
+  #    - 'Creating Online Personas: Choosing Usernames and Avatars': 'contents/digitalid/aliasavatar.md'
+  #  - '3. Sociocultural references in the construction of digital identity. Influential people': # SB3.3
+  #    - 'How We See Ourselves and Others See Us Online: Self-image and Perception': 'contents/digitalid/selfconcept.md'
+  #    - 'People Who Influence Our Digital Identity': 'contents/digitalid/influencers.md'
+  #  - '4. Personal exposure on the network. Digital footprint': # SB3.4
+  #    - 'Leaving Our Mark Online: Digital Footprints and Online Reputation': 'contents/digitalid/footprint.md'
+  #  - '5. Behaviors and habits to take care of digital identity': #SB3.5
+  #    - 'Being a Responsible Digital Citizen': 'contents/digitalid/behaviours.md'
+  #  - '6. Privacy on the web. Protection of personal data. Information and consent': #SB3.6
+  #    - 'Staying Safe Online: Protecting Our Personal Information and Privacy': 'contents/digitalid/privacy.md'
+  #    - 'Fake News, Hate Speech, and Online Platforms': 'contents/digitalid/fakehateonline.md'
+  #    - 'Activities & Projects':
+  #      - 'A01. Title': 'contents/unit05/activity-A01.md'
+  #      - 'A02. Title': 'contents/unit05/activity-A02.md'
+  #     - 'A03. Title': 'contents/unit05/activity-A03.md'
+  #    - 'Glossary': 'contents/unit05/glossary-ud05.md'
+  # *************************************************************************
+  # UNIT 6. Relationships in the Digital Environment
+  # *************************************************************************
+  - "Unit 6. Digital Relationships":
+      - "Relationships in the Digital Environment": "contents/unit06/unit6.md"
+  #  - '1. Virtual and physical friendship.': #SB4.1
+  #    - 'Introduction': 'contents/relationships/s41_intro.md'
+  #  - '2. Digital environments for social exchange and online games.': # SB4.2
+  #     - 'Introduction': 'contents/relationships/s42_intro.md'
+  #  - '3. Strategies for an equal, safe, and healthy cyber coexistence. Digital etiquette.': #SB4.3
+  #    - 'Introduction': 'contents/relationships/s43_intro.md'
+  #  - '4. Advantages and benefits of interactions in the digital environment.': # SB4.4
+  #    - 'Introduction': 'contents/relationships/s44_intro.md'
+  #  - '5. Risks and threats of using devices and online relationships: cyberbullying and fraud': # SB4.5
+  #    - 'IT Threats (I)':
+  #      - 'Botnets' : 'contents/relationships/itthreats/botnets.md'
+  #      - 'Hacking' : 'contents/relationships/itthreats/hacking.md'
+  #      - 'Malware' : 'contents/relationships/itthreats/malware.md'
+  #      - 'Pharming' : 'contents/relationships/itthreats/pharming.md'
+  #      - 'Phishing' : 'contents/relationships/itthreats/phishing.md'
+  #    - 'IT Threats (II)':
+  #      - 'Ransomware' : 'contents/relationships/itthreats/ransomware.md'
+  #      - 'SPAM' : 'contents/relationships/itthreats/spam.md'
+  #      - 'Spoofing' : 'contents/relationships/itthreats/spoofing.md'
+  #      - 'Spyware' : 'contents/relationships/itthreats/spyware.md'
+  #    - 'IT Threats (III)':
+  #      - 'Trojan Horse' : 'contents/relationships/itthreats/trojan.md'
+  #      - 'Viruses' : 'contents/relationships/itthreats/virus.md'
+  #      - 'WiFi Eavesdropping' : 'contents/relationships/itthreats/wifieavesdropping.md'
+  #      - 'Worms' : 'contents/relationships/itthreats/worms.md'
+  #      - 'Glossary' : 'contents/relationships/itthreats/glossary.md'
+  #    - 'Tips for Online Safety and Privacy':
+  #      - 'Tip 1: Think before you share' : 'contents/relationships/tips/thinkbefore.md'
+  #      - 'Tip 2: Protect Your Stuff' : 'contents/relationships/tips/protectstuff.md'
+  #      - 'Tip 3: Know & Use Your Settings' : 'contents/relationships/tips/knowsettings.md'
+  #      - 'Tip 4: Avoid Scams' : 'contents/relationships/tips/avoidscams.md'
+  #      - 'Tip 5: Be Positive' : 'contents/relationships/tips/bepositive.md'
+  #      - 'Tip 6: Internet Safety and Privacy' : 'contents/relationships/tips/safetyprivacy.md'
+  #    - '6. Addictions. Techno addiction, nomophobia, and online gambling addiction.': # SB4.6
+  #      - 'Introduction': 'contents/relationships/s46_intro.md'
+  #    - 'Activities & Projects':
+  #      - 'A01. Title': 'contents/unit06/activity-A01.md'
+  #      - 'A02. Title': 'contents/unit06/activity-A02.md'
+  #    - 'A03. Title': 'contents/unit06/activity-A03.md'
+  #    - 'Glossary': 'contents/unit06/glossary-ud06.md'
+  #- 'Programación Didáctica':
+  #    - 'Elementos curriculares': 'pd/curriculo/curriculo.md'
+  #- "More":
+  #    - "Blog": "https://www.esferatic.com"
+  #    - "Instagram": "https://www.instagram.com/esferatic"
 
 theme:
-    language: es
-    name: 'readthedocs'
-    palette:
-        primary: 'Teal'
-        accent: 'Teal'
-    font:
-        text: Roboto
-        code: Roboto Mono
-    logo: 'images/floppy-ict1.png'
+  language: es
+  name: "readthedocs"
+  palette:
+    primary: "Teal"
+    accent: "Teal"
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: "images/floppy-ict1.png"
 #    features:
-#        - toc.integrate 
+#        - toc.integrate
 #        - navigation.prune
 #        - navigation.expand
 
@@ -203,14 +203,14 @@ plugins:
   - search
   - mermaid2
   - encryptcontent:
-        global_password: ''
-        title_prefix: '[LOCK] '
-        summary: 'This content is protected.'
-        placeholder: 'another password placeholder'
-        decryption_failure_message: 'another informational message when decryption fails'
-        encryption_info_message: "Contact Enrique Benimeli for access to this page"
-        input_class: 'md-search__form md-search__input'
-        button_class: 'md-search__icon'
+      global_password: ""
+      title_prefix: "[LOCK] "
+      summary: "This content is protected."
+      placeholder: "another password placeholder"
+      decryption_failure_message: "another informational message when decryption fails"
+      encryption_info_message: "Contact Enrique Benimeli for access to this page"
+      input_class: "md-search__form md-search__input"
+      button_class: "md-search__icon"
 
 markdown_extensions:
   - attr_list
@@ -222,7 +222,5 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - footnotes
 
-
 extra_javascript:
   - javascript/extra.js
-    

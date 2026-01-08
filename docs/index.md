@@ -1,6 +1,6 @@
 # Workshop on Responsible Digital Relationships
 
-## 1ESO · 2024/2025
+## 1ESO · 2025/2026
 
 <img src="images/wrdr_illustration3.jpeg" class="header">
 
