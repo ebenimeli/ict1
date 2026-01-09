@@ -2,6 +2,9 @@ site_name: Workshop on Responsible Digital Relationships
 use_directory_urls: false
 nav:
   #- 'Objectives': 'contents/criteria.md'
+  - "Classes":
+      - "00. Course Presentation": "contents/sessions/class00.md"
+      - "▶ 01. Responsible use of technology": "contents/sessions/class01.md"
   # *************************************************************************
   # UNIT 0. Introduction and tools
   # *************************************************************************
@@ -221,6 +224,9 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
   - footnotes
+  - toc:
+      toc_depth: "2-2"
+      permalink: true
 
 extra_javascript:
   - javascript/extra.js
