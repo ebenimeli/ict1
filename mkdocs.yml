@@ -2,15 +2,12 @@ site_name: Workshop on Responsible Digital Relationships
 use_directory_urls: false
 nav:
   #- 'Objectives': 'contents/criteria.md'
-  - "Classes":
-      - "00. Course Presentation": "contents/sessions/class00.md"
-      - "▶ 01. Responsible use of technology": "contents/sessions/class01.md"
-      - "02. Coming soon...": "contents/sessions/class02.md"
   # *************************************************************************
   # UNIT 0. Introduction and tools
   # *************************************************************************
   - "Unit 0. Introduction and Tools":
       - "Presentation": "contents/unit00/presentation.md"
+      - "▶ Responsible use of technology": "contents/sessions/class01.md"
       - "Text: Responsible Digital Relationships": "contents/unit00/wrdr.md"
       - "Reading Progress 1": "contents/unit00/readingprogress01.md"
   # *************************************************************************
