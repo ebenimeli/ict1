@@ -38,5 +38,6 @@ In group discussions, show empathy by listening carefully and acknowledging othe
 
 ## Resources and tools
 
+- [Text and glossary](class01/text_responsible_dig_relation.pdf). The text _Responsible Digital Relationships_ along with a glossary of difficult words and expressions.
 - [WordReference Online Dictionary](https://www.wordreference.com/). This is a very useful online dictionary that provides definitions, translations, and examples of words and phrases in multiple languages.
 - [Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software). This is a collaboration platform that integrates with Office 365 and allows users to communicate, share files, and work together on projects in real time.
