@@ -2,14 +2,90 @@
 
 1.2. Basic functioning and most important characteristics of digital devices
 
-| Ref. | Definition                           | CE | T1 | T2 | T3 |
-| :--- | :----------------------------------- | :--- | :--- | :--- | :--- |
-| <span id="1.1">1.1</span> | <span class="vb">Identify</span> basic characteristics of digital devices<br/> for personal use in domestic and educational settings. | CE1 | ✔️ | ✔️ | ✔️ |
-| 1.2 | <span class="vb">Determine</span> which device and internet access mode<br/> is the most suitable for the needs. | CE1 | ✔️ | ✔️ | ✔️ |
-| 1.3 | <span class="vb">Connect</span> digital devices to the internet securely. | CE1 | ✔️ | ✔️ | ✔️ |
-| 1.4 | <span class="vb">Recognize</span> the implications of technology use<br/>and consumption on health and the environment. | CE1 | ✔️ | ✔️ | ✔️ |
-| 1.5 | <span class="vb">Show</span> basic security habits to protect devices. | CE1 | ✔️ | ✔️ | ✔️ |
+| Ref.                      | Definition                                                                                                                            | CE  | T1  | T2  | T3  |
+| :------------------------ | :------------------------------------------------------------------------------------------------------------------------------------ | :-- | :-- | :-- | :-- |
+| <span id="1.1">1.1</span> | <span class="vb">Identify</span> basic characteristics of digital devices<br/> for personal use in domestic and educational settings. | CE1 | ✔️  | ✔️  | ✔️  |
+| 1.2                       | <span class="vb">Determine</span> which device and internet access mode<br/> is the most suitable for the needs.                      | CE1 | ✔️  | ✔️  | ✔️  |
+| 1.3                       | <span class="vb">Connect</span> digital devices to the internet securely.                                                             | CE1 | ✔️  | ✔️  | ✔️  |
+| 1.4                       | <span class="vb">Recognize</span> the implications of technology use<br/>and consumption on health and the environment.               | CE1 | ✔️  | ✔️  | ✔️  |
+| 1.5                       | <span class="vb">Show</span> basic security habits to protect devices.                                                                | CE1 | ✔️  | ✔️  | ✔️  |
 
+## Slides
+
+<div class="glightbox">
+  <a href="slides/unit1-2/Diapositiva1.jpeg" class="glightbox">
+    <img src="slides/unit1-2/Diapositiva1.jpeg" alt="" />
+  </a>
+
+  <a href="slides/unit1-2/Diapositiva2.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-2/Diapositiva2.jpeg" alt="" />
+  </a>
+
+  <a href="slides/unit1-2/Diapositiva3.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-2/Diapositiva3.jpeg" alt="" />
+  </a>
+
+  <a href="slides/unit1-2/Diapositiva4.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-2/Diapositiva4.jpeg" alt="" />
+  </a>
+
+  <a href="slides/unit1-2/Diapositiva5.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-2/Diapositiva5.jpeg" alt="" />
+  </a>
+
+  <a href="slides/unit1-2/Diapositiva6.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-2/Diapositiva6.jpeg" alt="" />
+  </a>
+
+  <a href="slides/unit1-2/Diapositiva7.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-2/Diapositiva7.jpeg" alt="" />
+  </a>
+
+  <a href="slides/unit1-2/Diapositiva8.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-2/Diapositiva8.jpeg" alt="" />
+  </a>
+
+  <a href="slides/unit1-2/Diapositiva9.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-2/Diapositiva9.jpeg" alt="" />
+  </a>
+
+  <a href="slides/unit1-2/Diapositiva10.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-2/Diapositiva10.jpeg" alt="" />
+  </a>
+
+  <a href="slides/unit1-2/Diapositiva11.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-2/Diapositiva11.jpeg" alt="" />
+  </a>
+
+  <a href="slides/unit1-2/Diapositiva12.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-2/Diapositiva12.jpeg" alt="" />
+  </a>
+
+  <a href="slides/unit1-2/Diapositiva13.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-2/Diapositiva13.jpeg" alt="" />
+  </a>
+
+  <a href="slides/unit1-2/Diapositiva14.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-2/Diapositiva14.jpeg" alt="" />
+  </a>
+
+  <a href="slides/unit1-2/Diapositiva15.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-2/Diapositiva15.jpeg" alt="" />
+  </a>
+
+  <a href="slides/unit1-2/Diapositiva16.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-2/Diapositiva16.jpeg" alt="" />
+  </a>
+
+  <a href="slides/unit1-2/Diapositiva17.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-2/Diapositiva17.jpeg" alt="" />
+  </a>
+
+  <a href="slides/unit1-2/Diapositiva18.jpeg" class="glightbox hidden">
+    <img src="slides/unit1-2/Diapositiva18.jpeg" alt="" />
+  </a>
+</div>
+<br/>
 
 ## What is a Digital Device?
 
