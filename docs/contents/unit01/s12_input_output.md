@@ -2,11 +2,11 @@
 
 ## Description
 
-The activity consists of identifying and classifying different input and output devices used in computers and other digital devices.
+The activity consists of **identifying and classifying** different **input and output devices** used in computers and other digital devices.
 
-The design of the presentation must be exactly the same as the slides shown in the example. Pay close attention to details such as the use of images, colors, and typography to ensure that the presentation is visually appealing and consistent.
+The **design of the presentation** must be exactly the same as the slides shown in the example. Pay close attention to details such as the use of images, colors, and typography to ensure that the presentation is visually appealing and consistent.
 
-Complete the information on the slides with the input, output, and input/output devices you researched. Make sure to include a relevant image for each device and its name.
+**Complete** the information on the slides with the **input, output, and input/output devices** you researched. Make sure to include a relevant image for each device and its name.
 
 ## Slides
 
