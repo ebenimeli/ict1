@@ -48,8 +48,8 @@ nav:
       - 'Digital Devices and Health': 'contents/unit02/s24_devices_health.md'
       - 'Sustainability and Environment': 'contents/unit02/s24_environment.md'
       - 'Obsolescence': 'contents/unit02/s24_obsolescence.md'
-  #  - '2. The digital divide': # SB1.5
-  #    - 'What is Digital Divide?': 'contents/unit02/s22_digitaldivide.md'
+    - '2. The digital divide': # SB1.5
+      - 'What is Digital Divide?': 'contents/unit02/s22_digitaldivide.md'
   #  - '3. Device networks. Fundamentals and ways to access the Internet': # SB1.4
   #     - 'Computer Networks': 'contents/unit02/s21_intro.md'
   #     - 'Communication Media': 'contents/unit02/s21_comm_media.md'
