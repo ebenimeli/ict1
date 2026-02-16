@@ -1,6 +1,7 @@
 site_name: Workshop on Responsible Digital Relationships
 use_directory_urls: false
 nav:
+  #- "Sessions": "contents/sessions.md"
   #- 'Objectives': 'contents/criteria.md'
   # *************************************************************************
   # UNIT 0. Introduction and tools
@@ -20,7 +21,7 @@ nav:
           - "Personal computers": "contents/unit01/s11_personalcomputers.md"
           - "Mobile devices": "contents/unit01/s11_mobiledev.md"
           - "Other devices": "contents/unit01/s11_otherdev.md"
-      - "▶ 2. Inside Digital Devices: Key Features and Functions": # SB1.2
+      - "2. Inside Digital Devices: Key Features and Functions": # SB1.2
           - "Digital Devices: An Introduction": "contents/unit01/s12_intro.md"
           - "Computer Science": "contents/unit01/s12_computer_science.md"
           - "Hardware and Software": "contents/unit01/s12_hw_sw.md"
@@ -28,10 +29,10 @@ nav:
           - "Storage Devices": "contents/unit01/s12_storage_devices.md"
           - "Peripheral Devices": "contents/unit01/s12_peripheral.md"
           - "▶ Activity: Input and Output Devices": "contents/unit01/s12_input_output.md"
-  #    - "3. Common operating systems and applications": # SB1.4
-  #        - "Introduction": "contents/unit01/s13_intro.md"
-  #        - "Operating Systems": "contents/unit01/s13_os.md"
-  #        - "Applications": "contents/unit01/s13_apps.md"
+      - "3. Common operating systems and applications": # SB1.4
+          - "Introduction": "contents/unit01/s13_intro.md"
+          - "Operating Systems": "contents/unit01/s13_os.md"
+          - "Applications": "contents/unit01/s13_apps.md"
   #- 'Activities & Projects': ''
   #    - 'A01. Title': 'contents/unit01/activity-A01.md'
   #    - 'A02. Title': 'contents/unit01/activity-A02.md'
@@ -41,12 +42,12 @@ nav:
   # UNIT 2. Digital World: Access, Safety, and Responsibility
   # *************************************************************************
   - "Unit 2. Networks, Access and Safety":
-      - "Digital World: Networks, Access, Safety, and Responsibility": "contents/unit02/unit2.md"
-  #  - '1. Implications of the use of digital devices': # SB1.7
-  #    - 'Effects of using Digital Devices': 'contents/unit02/s24.md'
-  #    - 'Digital Devices and Health': 'contents/unit02/s24_devices_health.md'
-  #    - 'Sustainability and Environment': 'contents/unit02/s24_environment.md'
-  #    - 'Obsolescence': 'contents/unit02/s24_obsolescence.md'
+    - "Digital World: Networks, Access, Safety, and Responsibility": "contents/unit02/unit2.md"
+    - '1. Implications of the use of digital devices': # SB1.7
+      - 'Effects of using Digital Devices': 'contents/unit02/s24.md'
+      - 'Digital Devices and Health': 'contents/unit02/s24_devices_health.md'
+      - 'Sustainability and Environment': 'contents/unit02/s24_environment.md'
+      - 'Obsolescence': 'contents/unit02/s24_obsolescence.md'
   #  - '2. The digital divide': # SB1.5
   #    - 'What is Digital Divide?': 'contents/unit02/s22_digitaldivide.md'
   #  - '3. Device networks. Fundamentals and ways to access the Internet': # SB1.4
