@@ -50,12 +50,12 @@ nav:
       - 'Obsolescence': 'contents/unit02/s24_obsolescence.md'
     - '2. The digital divide': # SB1.5
       - 'What is Digital Divide?': 'contents/unit02/s22_digitaldivide.md'
-  #  - '3. Device networks. Fundamentals and ways to access the Internet': # SB1.4
-  #     - 'Computer Networks': 'contents/unit02/s21_intro.md'
-  #     - 'Communication Media': 'contents/unit02/s21_comm_media.md'
-  #     - 'Client-Server Model': 'contents/unit02/s21_client_server.md'
-  #     - 'The World Wide Web' : 'contents/unit02/s21_www.md'
-  #     - 'WWW · Video' : 'contents/unit02/s21_www_video.md'
+    - '3. Device networks. Fundamentals and ways to access the Internet': # SB1.4
+       - 'Computer Networks': 'contents/unit02/s21_intro.md'
+       - 'Communication Media': 'contents/unit02/s21_comm_media.md'
+       - 'Client-Server Model': 'contents/unit02/s21_client_server.md'
+       - 'The World Wide Web' : 'contents/unit02/s21_www.md'
+       - 'WWW · Video' : 'contents/unit02/s21_www_video.md'
   #  - '4. Basic security habits to protect devices': # SB1.6
   #    - 'Security Habits': 'contents/unit02/s23_basic_security.md'
   #  - 'Activities & Projects':
