@@ -6,7 +6,7 @@ nav:
   # *************************************************************************
   # UNIT 0. Introduction and tools
   # *************************************************************************
-  - "Unit 0. Introduction and Tools":
+  - "Introduction and Tools":
       - "Presentation": "contents/unit00/presentation.md"
       - "Responsible use of technology": "contents/sessions/class01.md"
       - "Text: Responsible Digital Relationships": "contents/unit00/wrdr.md"
@@ -14,7 +14,7 @@ nav:
   # *************************************************************************
   # UNIT 1. Digital Devices, Operating Systems, and Networks
   # *************************************************************************
-  - "Unit 1. Devices, OS and Apps":
+  - "Devices, OS and Apps":
       - "Digital Devices, Operating Systems, and Apps": "contents/unit01/unit1.md"
       - "1. Smart Devices for Home and School": # SB1.1
           - "Digital Devices: An Overview": "contents/unit01/s11_intro.md"
@@ -28,7 +28,7 @@ nav:
           - "Computer Components": "contents/unit01/s12_pc_main_components.md"
           - "Storage Devices": "contents/unit01/s12_storage_devices.md"
           - "Peripheral Devices": "contents/unit01/s12_peripheral.md"
-          - "▶ Activity: Input and Output Devices": "contents/unit01/s12_input_output.md"
+          - "Activity: Input and Output Devices": "contents/unit01/s12_input_output.md"
       - "3. Common operating systems and applications": # SB1.4
           - "Introduction": "contents/unit01/s13_intro.md"
           - "Operating Systems": "contents/unit01/s13_os.md"
@@ -41,7 +41,7 @@ nav:
   # *************************************************************************
   # UNIT 2. Digital World: Access, Safety, and Responsibility
   # *************************************************************************
-  - "Unit 2. Networks, Access and Safety":
+  - "Networks, Access and Safety":
     - "Digital World: Networks, Access, Safety, and Responsibility": "contents/unit02/unit2.md"
     - '1. Implications of the use of digital devices': # SB1.7
       - 'Effects of using Digital Devices': 'contents/unit02/s24.md'
@@ -50,9 +50,9 @@ nav:
       - 'Obsolescence': 'contents/unit02/s24_obsolescence.md'
     - '2. The digital divide': # SB1.5
       - 'What is Digital Divide?': 'contents/unit02/s22_digitaldivide.md'
-    - '3. Device networks. Fundamentals and ways to access the Internet': # SB1.4
+    - '▶ 3. Device networks. Fundamentals and ways to access the Internet': # SB1.4
        - 'Computer Networks': 'contents/unit02/s21_intro.md'
-       - 'Communication Media': 'contents/unit02/s21_comm_media.md'
+       - '▶ Communication Media': 'contents/unit02/s21_comm_media.md'
        - 'Client-Server Model': 'contents/unit02/s21_client_server.md'
        - 'The World Wide Web' : 'contents/unit02/s21_www.md'
        - 'WWW · Video' : 'contents/unit02/s21_www_video.md'
@@ -68,8 +68,8 @@ nav:
   # *************************************************************************
   # UNIT 3. Searching and Selecting Information
   # *************************************************************************
-  - "Unit 3. Searching Information":
-      - "Searching and Selecting Information": "contents/unit03/unit3.md"
+  #- "Searching Information":
+  #    - "Searching and Selecting Information": "contents/unit03/unit3.md"
   #  - '1. Types of web search engines and their filtering tools' : # SB 2.1
   #    - 'Introduction': 'contents/unit03/s31_intro.md'
   #    - 'Search Engines': 'contents/unit03/s31_searchengines.md'
@@ -93,8 +93,8 @@ nav:
   # *************************************************************************
   # UNIT 4. Organization and Creation of Content
   # *************************************************************************
-  - "Unit 4. Creation of Content":
-      - "Organization and Creation of Content": "contents/unit04/unit4.md"
+  #- "Creation of Content":
+  #    - "Organization and Creation of Content": "contents/unit04/unit4.md"
   #  - '1. Organization of information. Basic operations with files and folders': # SB2.6
   #    - 'Introduction': 'contents/digitalcontents/s26_intro.md'
   #  - '2. Customizing the work environment': # SB2.7
@@ -111,8 +111,8 @@ nav:
   # *************************************************************************
   # UNIT 5. Digital Identity
   # *************************************************************************
-  - "▶ Unit 5. Digital Identity":
-      - "Digital Identity": "contents/unit05/unit5.md"
+  #- "Digital Identity":
+  #    - "Digital Identity": "contents/unit05/unit5.md"
   #  - '1. Personal identity on the Internet. Aliases and avatars': # SB3.1
   #    - 'Understanding Digital Identity: What it is and why it is important': 'contents/digitalid/s31_xxx.md'
   #  - '2. Self-concept and external perception of digital identity': # SB3.2
@@ -135,7 +135,7 @@ nav:
   # *************************************************************************
   # UNIT 6. Relationships in the Digital Environment
   # *************************************************************************
-  - "Unit 6. Digital Relationships":
+  - "Digital Relationships":
       - "Relationships in the Digital Environment": "contents/unit06/unit6.md"
   #  - '1. Virtual and physical friendship.': #SB4.1
   #    - 'Introduction': 'contents/relationships/s41_intro.md'
@@ -163,13 +163,13 @@ nav:
   #      - 'WiFi Eavesdropping' : 'contents/relationships/itthreats/wifieavesdropping.md'
   #      - 'Worms' : 'contents/relationships/itthreats/worms.md'
   #      - 'Glossary' : 'contents/relationships/itthreats/glossary.md'
-  #    - 'Tips for Online Safety and Privacy':
-  #      - 'Tip 1: Think before you share' : 'contents/relationships/tips/thinkbefore.md'
-  #      - 'Tip 2: Protect Your Stuff' : 'contents/relationships/tips/protectstuff.md'
-  #      - 'Tip 3: Know & Use Your Settings' : 'contents/relationships/tips/knowsettings.md'
-  #      - 'Tip 4: Avoid Scams' : 'contents/relationships/tips/avoidscams.md'
-  #      - 'Tip 5: Be Positive' : 'contents/relationships/tips/bepositive.md'
-  #      - 'Tip 6: Internet Safety and Privacy' : 'contents/relationships/tips/safetyprivacy.md'
+      - '▶ Tips for Online Safety and Privacy':
+        - 'Tip 1: Think before you share' : 'contents/relationships/tips/thinkbefore.md'
+        - 'Tip 2: Protect Your Stuff' : 'contents/relationships/tips/protectstuff.md'
+        - 'Tip 3: Know & Use Your Settings' : 'contents/relationships/tips/knowsettings.md'
+        - 'Tip 4: Avoid Scams' : 'contents/relationships/tips/avoidscams.md'
+        - 'Tip 5: Be Positive' : 'contents/relationships/tips/bepositive.md'
+        - 'Tip 6: Internet Safety and Privacy' : 'contents/relationships/tips/safetyprivacy.md'
   #    - '6. Addictions. Techno addiction, nomophobia, and online gambling addiction.': # SB4.6
   #      - 'Introduction': 'contents/relationships/s46_intro.md'
   #    - 'Activities & Projects':
