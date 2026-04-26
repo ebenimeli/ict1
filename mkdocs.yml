@@ -111,12 +111,12 @@ nav:
   # *************************************************************************
   # UNIT 5. Digital Identity
   # *************************************************************************
-  #- "Digital Identity":
-  #    - "Digital Identity": "contents/unit05/unit5.md"
-  #  - '1. Personal identity on the Internet. Aliases and avatars': # SB3.1
-  #    - 'Understanding Digital Identity: What it is and why it is important': 'contents/digitalid/s31_xxx.md'
-  #  - '2. Self-concept and external perception of digital identity': # SB3.2
-  #    - 'Creating Online Personas: Choosing Usernames and Avatars': 'contents/digitalid/aliasavatar.md'
+  - "Digital Identity":
+    - "Digital Identity": "contents/unit05/unit5.md"
+    - '▶ 1. Personal identity on the Internet. Aliases and avatars': # SB3.1
+      - 'Understanding Digital Identity: What it is and why it is important': 'contents/digitalid/s31_intro.md'
+    - '2. Self-concept and external perception of digital identity': # SB3.2
+      - 'Creating Online Personas: Choosing Usernames and Avatars': 'contents/digitalid/aliasavatar.md'
   #  - '3. Sociocultural references in the construction of digital identity. Influential people': # SB3.3
   #    - 'How We See Ourselves and Others See Us Online: Self-image and Perception': 'contents/digitalid/selfconcept.md'
   #    - 'People Who Influence Our Digital Identity': 'contents/digitalid/influencers.md'
@@ -167,7 +167,7 @@ nav:
         - 'Tip 1: Think before you share' : 'contents/relationships/tips/thinkbefore.md'
         - 'Tip 2: Protect Your Stuff' : 'contents/relationships/tips/protectstuff.md'
         - 'Tip 3: Know & Use Your Settings' : 'contents/relationships/tips/knowsettings.md'
-        - 'Tip 4: Avoid Scams' : 'contents/relationships/tips/avoidscams.md'
+        - '▶ Tip 4: Avoid Scams' : 'contents/relationships/tips/avoidscams.md'
         - 'Tip 5: Be Positive' : 'contents/relationships/tips/bepositive.md'
         - 'Tip 6: Internet Safety and Privacy' : 'contents/relationships/tips/safetyprivacy.md'
   #    - '6. Addictions. Techno addiction, nomophobia, and online gambling addiction.': # SB4.6
